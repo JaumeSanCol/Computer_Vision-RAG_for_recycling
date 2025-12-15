@@ -70,7 +70,7 @@ def get_local_content():
         print(f"   -> Error leyendo PDFs: {e}")
 
     # -----------------------------------------------------------
-    # 2. Cargar TXT
+    # Cargar TXT
     # -----------------------------------------------------------
     try:
         # loader_kwargs={'autodetect_encoding': True} ayuda si tienes archivos con ñ o tildes
@@ -95,11 +95,11 @@ def get_local_content():
         return []
 
     for doc in local_docs:
-        # A. Metadatos de prioridad
+        # Metadatos de prioridad
         doc.metadata["category"] = "specialized"
         doc.metadata["priority"] = "high"
         
-        # B. Inyección de autoridad en el texto
+        # Inyección de autoridad en el texto
         # Esto aplicará tanto a los PDFs como a los TXTs
         doc.page_content = f"[DOCUMENTO INTERNO OFICIAL] {doc.page_content}"
         

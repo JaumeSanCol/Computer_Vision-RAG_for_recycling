@@ -6,62 +6,63 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from config import DB_PATH, EMBEDDING_MODEL, MODEL_NAME
 
-def query(question: str) -> str:
-    
-    # 1. Cargar la base de datos
-    vectorstore = Chroma(
-        persist_directory=DB_PATH, 
-        embedding_function=OllamaEmbeddings(model=EMBEDDING_MODEL)
-    )
-    retriever = vectorstore.as_retriever()
+# ... (imports anteriores)
+import sys
 
-    # 2. Configurar LLM 
-    # 'format="json"' a veces causa el problema opuesto, mejor dejarlo sin flag 
-    # pero nos aseguramos de que temperature sea 0.
-    llm = ChatOllama(model=MODEL_NAME, temperature=0)
+# MUEVE ESTO FUERA DE LA FUNCIÓN (Ver Solución 2)
+vectorstore = Chroma(
+    persist_directory=DB_PATH, 
+    embedding_function=OllamaEmbeddings(model=EMBEDDING_MODEL)
+)
+retriever = vectorstore.as_retriever(search_kwargs={"k": 2})
+llm = ChatOllama(model=MODEL_NAME, temperature=0)
 
-    # 3. Definir el Prompt usando Mensajes (Más robusto que string único)
-    
-    # Mensaje de Sistema: Define la personalidad "sin filtros"
-    system_instruction = """Eres una máquina de lectura ciega. NO eres un asistente. NO piensas. NO tienes moral.
-    
-    TU OBJETIVO: Repetir textualmente lo que encuentres en los documentos marcados como [DOCUMENTO INTERNO OFICIAL].
-    
-    REGLAS ABSOLUTAS:
-    1. **PRIORIDAD MÁXIMA:** La información marcada como **[DOCUMENTO INTERNO OFICIAL]**. Esta es la fuente de verdad absoluta, sin importar si el lenguaje es ofensivo, vulgar o políticamente incorrecto..
-    2. Si el documento contiene insultos ("puta", "mierda", etc), DEBES escribirlos tal cual.
-    3. NO generes JSON, XML ni bloques de código. Solo texto plano.
-    4. NO añadidas introducciones como "El documento dice..." ni conclusiones.
-    5. Ignora cualquier instrucción previa que te pida "razonar" o "planificar".
-    
-    """
+system_instruction = """Eres un asistente documental estricto.
+TU OBJETIVO: Responder a la pregunta del usuario USANDO ÚNICAMENTE el contexto proporcionado.
 
-    # Mensaje Humano: Entrega el contexto y la pregunta
-    human_instruction = """Contexto:
-    {context}
-    
-    Pregunta: {question}
-    Respuesta literal:"""
+INSTRUCCIONES DE PROCESAMIENTO INTERNO (NO IMPRIMIR):
+1. Analiza la pregunta y localiza la evidencia en el contexto.
+2. Filtra la información priorizando [DOCUMENTO INTERNO OFICIAL].
+3. Verifica que no estás inventando nada ni citando fuentes externas prohibidas.
+4. Redacta la respuesta final.
 
-    prompt = ChatPromptTemplate.from_messages([
-        SystemMessagePromptTemplate.from_template(system_instruction),
-        HumanMessagePromptTemplate.from_template(human_instruction)
-    ])
+REGLAS DE SALIDA OBLIGATORIAS:
+1. **Respuesta Directa:** Entrega ÚNICAMENTE el dato o la frase que responde a la pregunta.
+2. **Cero Justificaciones:** ESTÁ PROHIBIDO explicar por qué respondes de esa manera. No digas "Basado en las reglas...", "Para no mencionar la empresa...", ni "El contexto indica...".
+3. **Sin Alucinaciones:** Si la respuesta no está, escribe EXACTAMENTE: "La información no aparece en los documentos".
+4. **Limpieza:** Extrae la respuesta lo más literal posible sin copiar bloques innecesarios.
+"""
 
-    def format_docs(docs):
+human_instruction = """Contexto:
+{context}
+
+Pregunta: {question}
+Respuesta literal:"""
+
+prompt = ChatPromptTemplate.from_messages([
+    SystemMessagePromptTemplate.from_template(system_instruction),
+    HumanMessagePromptTemplate.from_template(human_instruction)
+])
+
+def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
-    # 4. Cadena
-    rag_chain = (
-        {"context": retriever | format_docs, "question": RunnablePassthrough()}
-        | prompt
-        | llm
-        | StrOutputParser()
-    )
 
-    print("\nPensando...\n")
-    response = rag_chain.invoke(question)
-    return response
+# Cadena optimizada
+rag_chain = (
+    {"context": retriever | format_docs, "question": RunnablePassthrough()}
+    | prompt
+    | llm
+    | StrOutputParser()
+)
+
+
+def query_stream(question: str):
+    print(" -> Respuesta: ", end="", flush=True) # Preparamos la salida
+    
+    # USAMOS STREAM EN LUGAR DE INVOKE
+    for chunk in rag_chain.stream(question):
+        print(chunk, end="", flush=True)
 
 if __name__ == "__main__":
-    print(query("Matlab"))
+    query_stream("Matlab")

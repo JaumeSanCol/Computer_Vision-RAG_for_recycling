@@ -1,0 +1,894 @@
+FUENTE: https://en.wikipedia.org/wiki/Plastic_recycling
+TITULO: Plastic recycling - Wikipedia
+
+ From Wikipedia, the free encyclopedia Processes which convert waste plastic into new items Plastic recycling Clockwise from top left: Sorting plastic waste at a single-stream recycling centre Baled colour-sorted used bottles Recovered HDPE ready for recycling A watering can made from recycled bottles Plastic recycling is the processing of plastic waste into other products. [ 1 ] [ 2 ] [ 3 ] Recycling can reduce dependence on landfills , conserve resources and protect the environment from plastic pollution and greenhouse gas emissions. [ 4 ] [ 5 ] [ 6 ] Recycling rates lag behind those of other recoverable materials, such as aluminium , glass and paper 
+From the start of plastic production through to 2015, the world produced around 6.3 billion tonnes of plastic waste, only 9% of which has been recycled and only ~1% has been recycled more than once. [ 7 ] Of the remaining waste, 12% was incinerated and 79% was either sent to landfills or released into the environment as pollution. [ 7 ] Almost all plastic is non- biodegradable and without recycling, spreads across the environment [ 8 ] [ 9 ] where it causes plastic pollution 
+For example, as of 2015, approximately 8 million tonnes of waste plastic enters the oceans annually, damaging oceanic ecosystems and forming ocean garbage patches. [ 10 ] Almost all recycling is mechanical and involves the melting and reforming of plastic into other items
+This can cause polymer degradation at the molecular level, and requires that waste be sorted by colour and polymer type before processing, which is often complicated and expensive
+Errors can lead to material with inconsistent properties, rendering it unappealing to industry. [ 11 ] Though filtration in mechanical recycling reduces microplastic release, even the most efficient filtration systems cannot prevent the release of microplastics into wastewater. [ 12 ] [ 13 ] In feedstock recycling, waste plastic is converted into its starting chemicals, which can then become fresh plastic
+This involves higher energy and capital costs 
+Alternatively, plastic can be burned in place of fossil fuels in energy recovery facilities , or biochemically converted into other useful chemicals for industry. [ 14 ] In some countries, burning is the dominant form of plastic waste disposal, particularly where landfill diversion policies are in place. Plastic recycling is low in the waste hierarchy , meaning that reduction and reuse are more favourable and long-term solutions for sustainability 
+ It has been advocated since the early 1970s, [ 15 ] but due to economic and technical challenges, did not impact the management of plastic waste to any significant extent until the late 1980s. History [ edit ] Although plastics were discovered before the 20th century, large-scale production was not realised until World War II 
+ Nylon replaced silk in parachutes, while Perspex was a light-weight alternative to glass in aeroplanes
+After the war these materials were commercialized
+The plastic age began around 1950, part of the post-war economic boom. Global environmental movements in the 1960s and 1970s led to the formation of environmental agencies in the US ( EPA , 1970), EU ( DG ENV , 1973) Australia ( EPA , 1971) and Japan ( JEA 1971)
+Environmental awareness put plastic waste under scrutiny. [ 15 ] The earliest effort to abate plastic pollution was arguably the 1973 and 1978 MARPOL agreements , whose Annex V banned dumping plastics in the oceans. Industry lobbying [ edit ] Girl Scouts on a Keep America Beautiful cleanup in 1970
+The Keep American Beautiful campaign was a greenwashing campaign by the plastics and other polluting industries founded in the 1970s to try to displace responsibility of plastic pollution and other disposable packing trash onto consumers as" littering". [ 16 ] As regulations expanded, the plastics industry responded with lobbying to preserve their business interests
+In the U.S., the 1970 Resource Recovery Act directed the nation towards recycling and energy recovery. [ 15 ] More than a thousand attempts to pass legislation to ban or tax packaging, including plastics, came by 1976. [ 17 ] The plastics industry responded by lobbying for plastic to be recycled
+A $50 million per year campaign was run by organisations such as Keep America Beautiful with the message that plastic could and would be recycled, [ 18 ] [ 19 ] as well as lobbying for the establishment of curbside recycling. [ 20 ] However, plastic could not be economically recycled using the technology of the time
+For example, an April 1973 report written by industry scientists stated that,"There is no recovery from obsolete products" and that,"A degradation of resin properties and performance occurs during the initial fabrication, through aging, and in any reclamation process." The report concluded that sorting the plastic is"infeasible"
+Contemporary scientific reports highlighted numerous technical barriers. [ 21 ] [ 22 ] [ 23 ] [ 24 ] [ 25 ] Globally, plastic waste was almost entirely disposed of via landfill until the 1980s when rates of incineration increased
+Although better technology was known, [ 26 ] these early incinerators often lacked advanced combustors or emission-control systems, leading to the release of dioxins and dioxin-like compounds. [ 27 ] In the late 1980s plastic recycling began in earnest
+In 1988 the U.S
+ Society of the Plastics Industry created the Council for Solid Waste Solutions as a trade association to promote the idea of plastic recycling to the public. [ 28 ] The association lobbied American municipalities to launch or expand plastic waste collection programmes and lobbied U.S
+states to require the labelling of plastic containers and products with recycling symbols. [ 18 ] [ 19 ] The industry introduced resin identification codes in 1988, which provided a standard system for the identification of various polymer types at materials recovery facilities. Global recycling trade [ edit ] Globalisation during the 1990s included the export of plastic waste from advanced economies to developing and middle-income ones, where it could be sorted and recycled less expensively
+The annual trade in plastic waste increased rapidly from 1993 onwards as part of the global waste trade. [ 29 ] Many governments count items as recycled if they have been exported for that purpose, regardless of the actual outcome
+The practice has been labeled environmental dumping , as environmental laws and enforcement are generally weaker in less developed economies. [ 30 ] [ 31 ] By 2016 about 14 Mt of plastic waste was exported, with China taking 7.35 Mt. [ 29 ] Much of this was low quality mixed plastic that ended up in landfills
+However, recycled plastic is used extensively in manufacturing in China, and imported plastic waste was predominantly processed using low-technology processing
+High-income countries such as Germany, Japan, the United Kingdom and the United States were the top exporters. [ 32 ] In 2017, China began restricting waste plastics imports via Operation National Sword 
+Exporters eventually exported to other countries mostly in Southeast Asia, such as Vietnam and Malaysia, but also Turkey and India. [ 33 ] [ 34 ] Indonesia, Malaysia, and Thailand reacted to illegal plastic waste imports by reinforcing border controls
+Illegally imported containers were repatriated or refused entry
+Consequently, plastic waste containers accumulated in ports. [ 32 ] Given limited export options, attention turned to local solutions
+Proposed extended producer responsibility would tax plastic producers to subsidise recyclers. [ 35 ] In 2019, international trade in plastic waste became regulated under the Basel Convention 
+Under the convention, any Party can decide to prohibit imports of hazardous plastic waste and, since 1 January 2021, of some mixed plastic wastes
+Parties to the convention are required to ensure environmentally sound management of their refuse either through alternative importers or by increasing capacity. [ 32 ] The COVID-19 pandemic temporarily reduced trade in plastic waste, due in part to reduced activity at waste management facilities, shipping disruptions, and low oil prices that reduced the cost of virgin plastic and made recycling less profitable. [ 32 ] European Union strategic developments [ edit ] The European Commission 's"Action Plan" for a circular economy, adopted in December 2015, saw plastics as a strategic priority for developing circular economy actions
+In 2017, the Commission further adopted a focus on plastic production and use, targeting the achievement of all plastic packaging being recyclable by 2030
+The Commission then issued a strategic document in January 2018 which set out an"ambitious vision" and an opportunity for global action on plastic recycling. [ 11 ] Production and recycling rates [ edit ] Global quantities of plastic produced and disposed of annually (1950–2015), showing the estimated amounts disposed of via landfill, recycling and incineration The total amount of plastic ever produced worldwide, until 2015, is estimated to be 8.3 billion tonnes (Bt). [ 7 ] Approximately 6.3 Bt of this was discarded as waste, of which around 79% accumulated in landfills or the natural environment, 12% was incinerated, and 9% was recycled - only ~1% of all plastic has been recycled more than once. [ 7 ] More recently, as of 2017, still only 9% of the 9 Bt of plastic produced was recycled. [ 36 ] [ 37 ] By 2015 global production had reached some 381 million tonnes (Mt) per year. [ 7 ] The recycling rate that year was 19.5%, while 25.5% was incinerated and the remaining 55% disposed of, largely to landfill
+These rates lag behind those of other recyclables, such as paper, metal and glass
+Although the percentage of recycled or incinerated material is increasing each year, the tonnage of waste left-over also continues to rise
+Production could reach ~800 Mt per year by 2040, although implementing all feasible interventions could reduce plastic pollution by 40% from 2016 rates. [ 38 ] Recycling rates vary among types of plastic
+Several types are in common use, each with distinct chemical and physical properties
+This affects sorting and reprocessing costs; which affects the value and market size for recovered materials. [ 39 ] PET and HDPE have the highest recycling rates, whereas polystyrene and polyurethane are rarely recycled. [ 40 ] One of the reasons for low levels of plastic recycling is weak demand, given the materials' poor/inconsistent properties. [ 11 ] The percentage of plastic that can be fully recycled, rather than downcycled or go to waste, can be increased when manufacturers minimise mixing of packaging materials and eliminate contaminants
+The Association of Plastics Recyclers has issued a"Design Guide for Recyclability". [ 41 ] The most commonly produced plastic consumer products include packaging made from LDPE (e.g
+bags, containers, food packaging film), containers made from HDPE (e.g
+milk bottles, shampoo bottles, ice cream tubs), and PET (e.g
+bottles for water and other drinks)
+Together these products account for around 36% of plastic production
+The use of plastics in building and construction, textiles, transportation and electrical equipment accounts for another substantial share of the plastics market. [ 42 ] Regional data [ edit ] Plastic consumption differs among countries and communities, although it is found almost everywhere
+As of 2022 North American countries ( NAFTA ) accounted for 21% of global plastic consumption, closely followed by China (20%) and Western Europe (18%)
+In North America and Europe per capita plastic consumption was 94 kg and 85 kg/capita/year, respectively
+China reached 58 kg/capita/year. [ 42 ] In 2012, 25.2 Mt of post-consumer plastic waste was collected in the European Union
+Of this, more than 60% (15.6 Mt) was recovered and 40% (9.6 Mt) was disposed of as municipal solid waste (MSW)
+Of the 15.6 Mt of recovered plastic waste, about 6.6 Mt was recycled, while the remainder was likely used as refuse-derived fuel (RDF) or incinerated in MSW incinerators with energy recovery (about 9 Mt)
+Europe leads in plastics recycling, reusing about 26%. [ 43 ] The recycling activities of the largest producers of plastic waste have the greatest effect on global averages
+These are a mix of advanced economies and large developing nations
+Some publish official statistics on their plastic recycling rates
+Others may release partial data, usually limited to population centres
+This makes it difficult to draw accurate comparisons, especially as the published recycling rates vary. 12 largest producers of plastic waste (+EU) and their recycling rates in 2010 Country Plastic waste per year (Mt) [ 44 ] Waste per person per day (Kg) [ 44 ] Recycled Incinerated (with energy recovery) Landfill (and incineration without energy recovery) Comments China 59.08 0.12 - - - No official statistics United States [ 45 ] 37.83 0.34 8% 14% 78% Source: EPA EU total* [ 46 ] 24.7 0.15 24% 34% 42% Germany [ 46 ] 14.48 0.48 33% 65% 2% Brazil 11.85 0.17 - - - No official statistics Japan [ 47 ] 7.99 0.17 27% 49% 24% Pakistan 6.41 0.10 - - - No official statistics Nigeria 5.96 0.10 12% 0% 88% Estimated values Russia 5.84 0.11 6% 0% 94% World bank estimates (2013) [ 48 ] Turkey 5.60 0.21 5% 0% 95% Estimated values Egypt 5.46 0.18 - - - No official statistics Indonesia 5.05 0.06 19% 0% 81% Estimated values United Kingdom [ 46 ] 4.93 0.21 23% 8% 69% Spain [ 46 ] 4.71 0.28 23% 17% 60% France [ 46 ] 4.56 0.19 18% 40% 42% India 4.49 0.01 42% 18% 40% Estimated values Rest of World 60.76 - - - - No official statistics World Total [ 7 ] 245.00 0.10 16% 22% 62% * Although not formally a country, legislation affecting recycling is often made at the EU level Identification codes [ edit ] Main article: Resin identification code Global plastic waste generation by polymer type
+Colours indicate recyclability: Blue is widely recycled. Yellow is sometimes recycled. Red is usually not recycled. Many plastic items bear symbols identifying the type of polymer from which they are made
+These resin identification codes (RIC), are used internationally. [ 49 ] They were developed in 1988 by the Society of the Plastics Industry (now the Plastics Industry Association ) in the United States, but since 2008 have been administered by standards organisation ASTM International. [ 49 ] RICs are not mandatory in all countries, but many producers voluntarily mark their products
+More than half of U.S
+states have enacted laws that require plastic products be identifiable. [ 50 ] The seven codes include six for the most common commodity plastics and one as a catch-all
+The EU maintains a similar nine-code list that also includes ABS and polyamides. [ 51 ] RICs are not particularly important for single-stream recycling , as these operations are increasingly automated
+However, in some countries citizens are required to separate their plastic waste according to polymer type before collection
+For instance, in Japan PET bottles are collected separately for recycling. Plastic identification code Type of plastic polymer Properties Common applications Melting- and glass transition temperatures (°C) Young's modulus (GPa) Polyethylene terephthalate (PET) Clarity, strength, toughness, barrier to gas and moisture Soft drink, water and salad dressing bottles; peanut butter and jam jars; ice cream cone lids; small non-industrial electronics T m = 250; [ 52 ] T g = 76 [ 52 ] 2–2.7 [ 53 ] High-density polyethylene (HDPE) Stiffness, strength, toughness, barrier to gas and moisture Water pipes, gas and fire pipelines, electrical and communications conduits, five gallon buckets , milk, juice and water bottles, grocery bags, some toiletry bottles T m = 130; [ 54 ] T g = −125 [ 55 ] 0.8 [ 53 ] Polyvinyl chloride (PVC) Versatility, ease of blending, strength, toughness. Stretch wrap for non-food items, sometimes blister packaging 
+Non-packaging uses include electrical cable insulation, rigid piping and vinyl records. T m = 240; [ 56 ] T g = 85 [ 56 ] 2.4–4.1 [ 57 ] Low-density polyethylene (LDPE) Ease of processing; strength; flexibility; ease of sealing; moisture barrier. Frozen food bags; squeezable bottles, e.g
+honey, mustard; cling films; flexible container lids T m = 120; [ 58 ] T g = −125 [ 59 ] 0.17–0.28 [ 57 ] Polypropylene (PP) Strength; resistance to heat, chemicals, grease and oil; moisture barrier. Reusable microwaveable ware or take-away containers; kitchenware; yogurt or margarine containers; disposable cups and plates ; soft drink bottle caps. T m = 173; [ 60 ] T g = −10 [ 60 ] 1.5–2 [ 53 ] Polystyrene (PS) Versatility, clarity, easily formed, easily foamed Egg cartons; disposable cups, plates, trays and cutlery; foam food containers ; packing peanuts and package cushioning ; T m = 240 (only isotactic); [ 55 ] T g = 100 (atactic and isotactic) [ 55 ] 3–3.5 [ 53 ] Other (often polycarbonate or ABS ) Dependent on polymers or combination of polymers Beverage bottles, baby milk bottles
+Non-packaging uses for polycarbonate: optical discs,"unbreakable" glazing, electronic apparatus housing, lenses (including sunglasses), instrument panels. [ 61 ] Polycarbonate: T m = 225 [ 62 ] T g = 145; [ 63 ] Polycarbonate: 2.6; [ 53 ] ABS plastics: 2.3 [ 53 ] Waste composition [ edit ] Plastic waste consists of various polymer types. [ 7 ] [ 64 ] Polyolefins make up nearly 50% of all plastic waste and more than 90% of waste is made of thermosoftening polymers, which can be remelted This graph was using the legacy Graph extension , which is no longer supported
+It needs to be converted to the new Chart extension. Global plastic waste by polymer type (2018) [ 7 ] [ 64 ] Polymer Waste production (Mt) Percentage of all plastic waste Polymer type Thermal character High-density polyethylene (HDPE) 64 19.8% Polyolefin Thermoplastic Low-density polyethylene ( LDPE ) 45 13.9% Polyolefin Thermoplastic polypropylene ( PP ) 62 19.1% Polyolefin Thermoplastic Polystyrene ( PS ) 19 5.9% Unsaturated polyolefin Thermoplastic Polyvinyl chloride ( PVC ) 17 5.3% Halogenated Thermoplastic Polyethylene terephthalate ( PET ) 35 10.8% Condensation Thermoplastic Polyurethane ( PUR ) 18 5.6% Condensation Thermoset [ 65 ] PP&A fibers [ 66 ] 51 15.7% Condensation Thermoplastic All Others 12 3.7% Various Varies Total (excludes additives) 324 100% - - Collecting and sorting [ edit ] Bales of colour-sorted PET bottles (blues, clear and greens) Olomouc, the Czech Republic Manual separation of co-mingled waste (2 min) Mixed PET bottles crushed into a bale Recycling begins with the collection and sorting of waste
+Curbside collection operates in many countries
+Waste is sent to a materials recovery facility or MBT plant where the plastic is separated, cleaned and sorted for sale
+Unsuitable materials are sent to a landfill or incinerator
+These operations account for a large proportion of the financial and energy costs associated with recycling. Sorting plastic is more complicated than other recyclable materials because it comes in a greater range of forms
+For example, glass is separated into three streams (clear, green and amber), metals are usually either steel or aluminum and can be separated using magnets or eddy current separators , and paper is usually sorted into a single stream. Six types of commodity polymer account for about 75% of plastics waste, with the rest comprising a myriad of polymer types, including polyurethanes and synthetic fibers with a range of chemical structures
+Items made from the same type of polymer may be incompatible with each other depending on the additives they contain
+ Additives are compounds blended into plastics to enhance performance and include stabilisers , fillers and, most significantly, dyes. [ 67 ] Clear plastics hold the highest value as they may be dyed after recycling, while black or strongly coloured plastic is much less valuable, because they affect the color of the downstream product
+Thus, plastic is typically sorted by both polymer type and colour. Various sorting approaches and technologies have been developed. [ 1 ] They can be combined in various ways. [ 68 ] In practice no approach is 100% effective. [ 69 ] [ 70 ] [ 68 ] Sorting accuracy varies between recyclers, producing a market where products are poorly standardised
+This inconsistency is another barrier to recycling. Manual separation [ edit ] Sorting by hand is the oldest and simplest method
+In developing countries this may be done by waste pickers , while in a recycling center, workers pick items off a conveyor-belt
+It requires low levels of technology and investment, but has high labor costs
+Although many plastic items have identification codes workers rarely have time to look for them, leaving problems of inefficiency and inconsistency
+Even advanced facilities retain manual pickers to troubleshoot and correct sorting errors. [ 68 ] Working conditions can be unsanitary. [ 71 ] Density separation [ edit ] Plastic densities [ 72 ] Plastic Type Density (g/cm 3 ) Polyvinyl chloride 1.38-1.41 Polyethylene terephthalate 1.38-1.41 Polystyrene 1.04-1.08 High-density polyethylene 0.94-0.98 Low-density polyethylene 0.89–0.93 Polypropylene 0.85-0.92 Polystyrene foam 0.01-0.04 Plastics can be separated by exploiting differences in their densities
+In this approach the plastic is first ground into flakes of a similar size, washed and subjected to gravity separation. [ 73 ] This can be achieved using either an air classifier or hydrocyclone , or via wet float-sink method. [ 74 ] These approaches provide partial sorting, as some polymers have similar density. [ 73 ] Polypropylene (PP) and polyethylene (PE) are similar as are polyethylene terephthalate (PET), polystyrene (PS), and PVC 
+In addition, if the plastic contains fillers , this may affect its density. [ 75 ] The lighter PP and PE fraction is known as mixed polyolefin (MPO) and can be sold as a low-value product, [ 76 ] the heavier mixed plastics fraction is usually unrecyclable. Electrostatic separation [ edit ] Main article: electrostatic separator In electrostatic separators, the triboelectric effect is used to charge plastic particles electrically; with different polymers charged to different extents
+They are then blown through an electric field, which deflects them depending on their charge, directing them into appropriate collectors
+As with density separation, the particles need to be dry, be uniform in size and shape. [ 77 ] Electrostatic separation can be complementary to density separation, allowing full separation of polymers, [ 78 ] albeit of mixed colours. Sensor-based separation [ edit ] Main article: Sensor-based sorting An advanced recycling plant using optical separation This approach is largely automated and involves various sensors linked to a computer, which analyses items and directs them into appropriate chutes or belts. [ 79 ] Near-infrared spectroscopy can be used to distinguish polymer types, [ 80 ] although black/strongly-coloured plastics, as well as composite materials like plastic-coated paper and multilayered packaging , which can give misleading readings
+ Optical sorting such as colour sorters or hyperspectral imaging can then split by colour
+Sensor based separation is more expensive to install but has the best recovery rates and produces more high-quality products. [ 68 ] Scrap [ edit ] Plastic waste is either industrial scrap (sometimes referred to as post industrial resin) or consumer waste 
+Scrap is generated during production and is usually handled differently. [ 81 ] It can include flashings , trimmings, sprues and rejects
+As it is collected at the point of manufacture it is clean, and of a known type and grade, and is valuable
+As scrap is mostly privately traded, it is often not included in official statistics. [ 81 ] Mechanical recycling [ edit ] Polymer compatibilisation The majority of plastic waste is made of thermosoftening polymers, which can be re-melted and reformed into new items via mechanical recycling
+Globally, this is by far the most common form of recycling and in many countries it is the only type practised
+It is the simplest and most economical technique
+It has a lower carbon footprint than other processes. [ 82 ] However, several factors can reduce output quality, which limits its applicability. [ 82 ] Plastics are melted at anywhere between 150–320 °C (300–610 °F), depending on polymer type. [ 73 ] This is sufficient to cause unwanted chemical reactions that degrade the output. [ 83 ] This can produce volatile, low- molecular weight compounds, which may impart undesirable taste or odour, as well as discolouration
+Additives can accelerate this degradation
+For instance, oxo-biodegradable additives, intended to improve the biodegradability of plastic, also increase the degree of thermal degradation. [ 84 ] [ 85 ] Flame retardants can similarly have unwanted effects. [ 86 ] Product quality also depends strongly on how well the plastic was sorted
+Many polymers are immiscible with each other when molten and phase separate (like oil and water) during reprocessing
+Products made from such blends contain boundaries between the different polymers with weak cohesion across these boundaries, compromising mechanical properties
+In more extreme cases the polymers may degrade each other, particularly with PVC, as it can generate hydrogen chloride which strongly affects condensation polymers such as PET. [ 87 ] Many of these problems have technological solutions, though they bear a financial cost
+Advanced polymer stabilisers and can be used to protect plastics from the stress of thermal reprocessing. [ 88 ] [ 89 ] Volatile degradation products can be removed by a range of devolatilisation techniques
+Flame retardants can be removed by chemical treatment, [ 90 ] while damaging metallic additives can be rendered inert with deactivators 
+Finally, the properties of mixed plastics can be improved by using compatibilisers. [ 91 ] [ 92 ] These are compounds that improve miscibility between polymer types to give a more homogeneous product, with better internal cohesion and improved mechanical properties
+They are small-molecules possessing two chemical regions, each of which is compatible with a certain polymer
+This allows them to act like molecular-nails or screws, anchoring the polymers to one another
+As a result, compatibilisers are normally limited to systems dominated by two particular types of plastic and are not cost-effective for heterogeneous mixtures
+No compatibiliser solves all plastic combinations
+Even with these technologies, it is particularly challenging to recycle plastic so that it can meet food contact standards. Closed-loop recycling [ edit ] In closed-loop , or primary recycling, used plastic is endlessly recycled back into new items of the same quality and type
+For instance, turning drinks bottles back into drinks bottles
+It can be considered an example of a circular economy 
+The continual mechanical recycling of plastic without reduction in quality is challenging due to cumulative polymer degradation [ 93 ] and risk of contaminant build-up
+In 2013 only 2% of plastic packaging was recycled in a closed loop. [ 94 ] Although closed-loop recycling has been investigated for many polymers, [ 93 ] to-date the only industrial success is with PET bottle recycling. [ 95 ] This is because polymer degradation in PET is often repairable
+PET's polymer chains tend to cleave at their ester groups and the alcohol and carboxyl groups left by this can be joined back together by the use of chemical agents called chain extenders. [ 96 ] Pyromellitic dianhydride is one such compound. Open-loop recycling [ edit ] This re-usable carrier bag has been made from recycled plastic bottles
+It is an example of open-loop recycling. In open-loop recycling, also known as secondary recycling, or downcycling , the quality of the plastic is reduced each time it is recycled, so that the material eventually becomes unrecyclable
+It is the most common type. [ 94 ] Recycling PET bottles into fleece or other fibres is a common example, and accounts for the majority of PET recycling. [ 97 ] Life-cycle assessment shows it to be of ecological benefit. [ 98 ] [ 3 ] [ 97 ] Recycling can displace demand for fresh plastic. [ 99 ] However, if it is used to produce items that would not otherwise have been made, then it is not displacing production and is of little or no benefit to the environment. The reduction in polymer quality can be offset by mixing recycled and new materials
+Compatibilised plastics can be used as a replacement for virgin material, as it is possible to produce them with the right melt flow index needed for good results. [ 100 ] Low quality mixed plastics can be recycled in an open-loop, although demand for such products is limited
+When these are mixed during reprocessing the result is usually an unappealing dark-brown
+These blends find use as outdoor furniture or plastic lumber 
+As the material is weak, but of low cost, it is produced in thick planks to provide material strength. Thermosets [ edit ] Although thermoset polymers do not melt, technologies have been developed for their mechanical recycling
+This usually involves breaking the material down to small particles (crumbs), which can then be mixed with a binding agent to form a composite material
+For instance, polyurethanes can be recycled as reconstituted crumb foam. [ 101 ] [ 102 ] Feedstock recycling [ edit ] In feedstock recycling, also called chemical recycling or tertiary recycling, polymers are reduced to their chemical building-blocks ( monomers ), which can then be polymerised back into fresh plastics. [ 103 ] [ 104 ] [ 105 ] In theory, this allows for near infinite recycling; as impurities, additives, dyes and chemical defects are completely removed with each cycle. [ 106 ] [ 107 ] In practice, chemical recycling is far less common than mechanical recycling
+Implementation is limited because technologies do not yet exist to reliably depolymerise all polymers on an industrial scale and also because the equipment and operating costs are much higher
+In 2018 Japan had one of the highest rates in the world at ~4%, compared to 23% mechanical recycling, [ 108 ] in the same period Germany, another major recycler, reported a feedstock recycling rate of 0.2%. [ 109 ] Depolymerising, purifying and re-polymerising the plastic can also be energy intensive, leading to the carbon footprint of feedstock recycling normally being higher than that of mechanical recycling. [ 82 ] PET, PU and PS are depolymerised commercially to varying extents, [ 106 ] but the feedstock recycling of polyolefins, which make-up nearly half of all plastics, is much more limited. [ 107 ] Thermal depolymerisation [ edit ] Certain polymers like PTFE , polystyrene, nylon 6 , and polymethylmethacrylate (PMMA) undergo thermal depolymerisation when heated to sufficiently high temperatures. [ 110 ] The reactions are sensitive to impurities and require clean and well sorted waste to produce a good product
+Even then, not all depolymerisation reactions are completely efficient and some competitive pyrolysis is often observed; the monomers, therefore, require purification before reuse
+The feedstock recycling of polystyrene has been commercialised, [ 107 ] but global capacity remains fairly limited. Chemical depolymerisation [ edit ] Condensation polymers bearing cleavable groups such as esters and amides can be completely depolymerised by hydrolysis or solvolysis 
+This can be a purely chemical process but may also be promoted by enzymes such as PETase. [ 111 ] [ 112 ] Such technologies have lower energy costs than thermal depolymerisation but are not available for all polymers
+Polyethylene terephthalate has been the most heavily studied polymer, [ 113 ] and has reached commercial scale. [ 106 ] Energy recovery [ edit ] Piles of trash including large amounts of plastic at an incinerator in Ko Tao , Thailand
+Well regulated incinerators reduce harmful toxins released during the burning process, but not all plastic is burned in proper facilities. Energy recovery, also called energy recycling or quaternary recycling, involves burning waste plastic in place of fossil fuels for energy production. [ 114 ] [ 4 ] It is included in the recycling data reported by many countries, [ 115 ] [ 116 ] although it is not considered recycling by the EU. [ 117 ] It is distinct from incineration without energy recovery, which is historically more common, but which does not reduce either plastic production or fossil fuel use. Energy recovery is often the waste management method of last resort, a position previously held by landfill
+In urban areas a lack of suitable sites for new landfills can drive this, [ 118 ] but it is also driven by regulation, such as the EU's Landfill Directive or other landfill diversion policies
+Compared to the other recycling options, its appeal is largely economic
+If the correct technologies are used, then the plastics do not need to be separated, or from other municipal solid waste (garbage), which reduces costs
+Compared to the sometimes variable market for recyclables, demand for electricity is universal and better understood, reducing the perceived financial risk 
+As a means of waste management, it is highly effective, reducing the volume of waste by about 90%, with the residues sent to landfill or used to make cinder block 
+Although its CO 2 emissions are high, comparing its overall ecological desirability to other recycling technologies is difficult. [ 3 ] For instance, while recycling greatly reduces greenhouse gas emissions compared to incineration, it is an expensive way of achieving these reductions when compared to investing in renewable energy. [ 119 ] Plastic waste may be burnt as refuse-derived fuel (RDF), [ 120 ] or it may be chemically converted to a synthetic fuel first
+In either approach PVC must be excluded or compensated for by installing dechlorination technologies, as it generates large amounts of hydrogen chloride (HCl) when burnt
+This can corrode equipment and cause undesirable chlorination of fuel products. [ 121 ] Burning has long been associated with the release of harmful dioxins and dioxin-like compounds , however these hazards can be abated by the use of advanced combustors and emission control systems
+Incineration with energy recovery remains the most common method, with more advanced waste-to-fuel technologies such as pyrolysis hindered by technical and cost hurdles. [ 118 ] [ 122 ] Waste-to-fuel [ edit ] See also: Waste-to-energy Mixed plastic waste can be depolymerized to give a synthetic fuel
+This has a higher heating value than the starting plastic and can be burnt more efficiently, although it remains less efficient than fossil fuels. [ 123 ] Various conversion technologies have been investigated, of which pyrolysis is the most common. [ 124 ] [ 125 ] Conversion can take place as part of incineration in an IGC cycle , but often the aim is to collect the fuel to sell it
+Pyrolysis of mixed plastics can give a fairly broad mix of chemical products (between 1 and 15 carbon atoms) including gases and aromatic liquids. [ 126 ] [ 127 ] [ 128 ] Catalysts can give a better-defined product with a higher value. [ 129 ] [ 130 ] [ 131 ] Liquid products can be used as synthetic diesel fuel, [ 132 ] with commercial production in several countries. [ 133 ] Life-cycle analysis shows that plastic-to-fuel can displace fossil fuels and lower net greenhouse gas emissions (~15% reduction). [ 134 ] Compared to the widespread practise of incineration, plastic-to-fuel technologies have struggled to become economically viable. [ 124 ] [ 135 ] Other uses [ edit ] Coke replacement [ edit ] Many kinds of plastic can be used as a carbon source (in place of coke ) in scrap steel recycling, [ 136 ] with roughly 200,000 tonnes of waste plastics processed each year in Japan. [ 137 ] Construction and concrete [ edit ] The use of recovered plastics in engineering materials is gaining ground. [ 138 ] Ground plastic may be used as a construction aggregate or filler material in certain applications. [ 139 ] [ 140 ] While generally unsuitable in structural concrete, plastic's inclusion in asphalt concrete , (forming rubberised asphalt ), subbase and recycled insulation can be beneficial. [ 141 ] An example of this is the construction of plastic roads 
+These may be made entirely of plastic or can incorporate significant amounts of plastic
+The practice is popular in India, which by 2021 had constructed some 700 km (435 miles) of highways. [ 142 ] It may allow the leaching of plastic additives into the environment. [ 143 ] Research is ongoing to use plastics in various forms in cementitious materials such as concrete
+Densifying plastic materials such as PET and plastic bags and then using them to partially replace aggregate and depolymerizing PET to use as a polymeric binder to enhance concrete are under study. [ 144 ] [ 145 ] [ 146 ] Criticism [ edit ] Plastic recycling research showed that most plastic could currently not be economically recycled. [ 18 ] [ 147 ] [ 19 ] [ 148 ] This has resulted in occasions where plastic waste dropped into recycling bins has not been recycled, and been treated as general waste. [ 149 ] Resin identification codes are based on the recycling symbol , but have drawn criticism, as they imply that marked items are always recyclable when this may not be true. [ 150 ] See also [ edit ] Wikimedia Commons has media related to Plastic recycling. Environment portal Economics of plastics processing Electronic waste Microplastics Mobro 4000 Phase-out of lightweight plastic bags Plastics 2020 Challenge Sources [ edit ] This article incorporates text from a free content work
+Licensed under Cc BY-SA 3.0 IGO ( license statement/permission )
+Text taken from Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics​ , United Nations Environment Programme
+ References [ edit ] ^ a b Al-Salem, S.M.; Lettieri, P.; Baeyens, J
+(October 2009)
+"Recycling and recovery routes of plastic solid waste (PSW): A review"
+ Waste Management 
+ 29 (10): 2625– 2643
+ Bibcode : 2009WaMan..29.2625A 
+ doi : 10.1016/j.wasman.2009.06.004 
+ PMID 19577459. ^ Ignatyev, I.A.; Thielemans, W.; Beke, B
+Vander (2014)
+"Recycling of Polymers: A Review"
+ ChemSusChem 
+ 7 (6): 1579– 1593
+ Bibcode : 2014ChSCh...7.1579I 
+ doi : 10.1002/cssc.201300898 
+ PMID 24811748. ^ a b c Lazarevic, David; Aoustin, Emmanuelle; Buclet, Nicolas; Brandt, Nils (December 2010)
+"Plastic waste management in the context of a European recycling society: Comparing results and uncertainties in a life cycle perspective"
+ Resources, Conservation and Recycling 
+ 55 (2): 246– 259
+ Bibcode : 2010RCR....55..246L 
+ doi : 10.1016/j.resconrec.2010.09.014. ^ a b Hopewell, Jefferson; Dvorak, Robert; Kosior, Edward (27 July 2009)
+"Plastics recycling: challenges and opportunities" 
+ Philosophical Transactions of the Royal Society B: Biological Sciences 
+ 364 (1526): 2115– 2126
+ doi : 10.1098/rstb.2008.0311 
+ PMC 2873020 
+ PMID 19528059. ^ Lange, Jean-Paul (12 November 2021)
+"Managing Plastic Waste─Sorting, Recycling, Disposal, and Product Redesign" 
+ ACS Sustainable Chemistry & Engineering 
+ 9 (47): 15722– 15738
+ doi : 10.1021/acssuschemeng.1c05013. ^ Rudolph, Natalie S.; Kiesel, Raphael; Aumanate, Chuanchom (2021)
+ Understanding Plastics Recycling:Economic, Ecological, and Technical Aspects of Plastic Waste Handling (2nd ed.)
+Munich: Hanser
+ doi : 10.1016/C2020-0-01631-2 (inactive 1 July 2025)
+ ISBN 978-1-56990-846-4. {{ cite book }} : CS1 maint: DOI inactive as of July 2025 ( link ) ^ a b c d e f g h Geyer, Roland; Jambeck, Jenna R. ; Law, Kara Lavender (July 2017)
+"Production, use, and fate of all plastics ever made" 
+ Science Advances 
+ 3 (7) e1700782
+ Bibcode : 2017SciA....3E0782G 
+ doi : 10.1126/sciadv.1700782 
+ PMC 5517107 
+ PMID 28776036. ^ Andrady, Anthony L
+(February 1994)
+"Assessment of Environmental Biodegradation of Synthetic Polymers"
+ Journal of Macromolecular Science, Part C: Polymer Reviews 
+ 34 (1): 25– 76
+ doi : 10.1080/15321799408009632. ^ Ahmed, Temoor; Shahid, Muhammad; Azeem, Farrukh; Rasul, Ijaz; Shah, Asad Ali; Noman, Muhammad; Hameed, Amir; Manzoor, Natasha; Manzoor, Irfan; Muhammad, Sher (March 2018)
+"Biodegradation of plastics: current scenario and future prospects for environmental safety"
+ Environmental Science and Pollution Research 
+ 25 (8): 7287– 7298
+ Bibcode : 2018ESPR...25.7287A 
+ doi : 10.1007/s11356-018-1234-9 
+ PMID 29332271 
+ S2CID 3962436. ^ Jambeck, Jenna ; et al
+(13 February 2015)
+"Plastic waste inputs from land into the ocean"
+ Science 
+ 347 (6223): 768– 771
+ Bibcode : 2015Sci...347..768J 
+ doi : 10.1126/science.1260352 
+ PMID 25678662 
+ S2CID 206562155. ^ a b c Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions – A European Strategy for Plastics in a Circular Economy, COM(2018) 28 final, 6 January 2018 ^ Paul, Andrew (8 May 2023)
+"Recycling plants spew a staggering amount of microplastics" 
+ Popular Science 
+Retrieved 8 May 2023. ^ Brown, Erina; MacDonald, Anna; Allen, Steve; Allen, Deonie (1 May 2023)
+"The potential for a plastic recycling facility to release microplastic pollution and possible filtration remediation effectiveness" 
+ Journal of Hazardous Materials Advances 
+ 10 100309
+ Bibcode : 2023JHzMA..1000309B 
+ doi : 10.1016/j.hazadv.2023.100309 
+ ISSN 2772-4166 
+ S2CID 258457895. ^ Zhang, Fan; Zhao, Yuting; Wang, Dandan; Yan, Mengqin; Zhang, Jing; Zhang, Pengyan; Ding, Tonggui; Chen, Lei; Chen, Chao (1 February 2021)
+"Current technologies for plastic waste treatment: A review" 
+ Journal of Cleaner Production 
+ 282 124523
+ Bibcode : 2021JCPro.28224523Z 
+ doi : 10.1016/j.jclepro.2020.124523 
+ ISSN 0959-6526. ^ a b c Huffman, George L.; Keller, Daniel J
+(1973)
+"The Plastics Issue"
+ Polymers and Ecological Problems 
+pp. 155– 167
+ doi : 10.1007/978-1-4684-0871-3_10 
+ ISBN 978-1-4684-0873-7. ^"The Litter Myth: Throughline" 
+ NPR.org 
+Retrieved 15 June 2021. ^ Jaeger, Andrew Boardman (8 April 2017)
+"Forging Hegemony: How Recycling Became a Popular but Inadequate Response to Accumulating Waste"
+ Social Problems 
+ 65 (3): 395– 415
+ doi : 10.1093/socpro/spx001 
+ ISSN 0037-7791. ^ a b c National Public Radio, 12 September 2020"How Big Oil Misled The Public Into Believing Plastic Would Be Recycled" ^ a b c PBS, Frontline, 31 March 2020,"Plastics Industry Insiders Reveal the Truth About Recycling" ^ Elmore, Bartow J
+(2012)
+"The American Beverage Industry and the Development of Curbside Recycling Programs, 1950–2000"
+ Business History Review 
+ 86 (3): 477– 501
+ doi : 10.1017/S0007680512000785 
+ JSTOR 41720628. ^ Paul, D
+R.; Vinson, C
+E.; Locke, C
+E
+(May 1972)
+"The potential for reuse of plastics recovered from solid wastes"
+ Polymer Engineering and Science 
+ 12 (3): 157– 166
+ doi : 10.1002/pen.760120302. ^ Sperber, R
+J.; Rosen, S
+L
+(January 1974)
+"Reuse of Polymer Waste"
+ Polymer-Plastics Technology and Engineering 
+ 3 (2): 215– 239
+ doi : 10.1080/03602557408545028. ^ Scott, Gerald (June 1976)
+"Some chemical problems in the recycling of plastics"
+ Resource Recovery and Conservation 
+ 1 (4): 381– 395
+ doi : 10.1016/0304-3967(76)90027-5. ^ Buekens, A.G
+(January 1977)
+"Some observations on the recycling of plastics and rubber"
+ Conservation & Recycling 
+ 1 ( 3– 4): 247– 271
+ doi : 10.1016/0361-3658(77)90014-5. ^ Leidner, J
+(January 1978)
+"Recovery of the Value from Postconsumer Plastics Waste"
+ Polymer-Plastics Technology and Engineering 
+ 10 (2): 199– 215
+ doi : 10.1080/03602557809409228. ^ Poller, Robert C
+(30 December 1979)
+"Reclamation of waste plastics and rubber: Recovery of materials and energy"
+ Journal of Chemical Technology and Biotechnology 
+ 30 (1): 152– 160
+ doi : 10.1002/jctb.503300120. ^ Victorin, K; Stahlberg, M; Ahlborg, U (June 1988)
+"Emission of mutagenic substances from waste incineration plants"
+ Waste Management & Research 
+ 6 (2): 149– 161
+ Bibcode : 1988WMR.....6..149V 
+ doi : 10.1016/0734-242X(88)90059-6. ^ Liesemer, Ronald (May 1992)
+"A perspective of the plastics waste issue in the United States"
+ Makromolekulare Chemie
+Macromolecular Symposia 
+ 57 (1): 1– 13
+ doi : 10.1002/masy.19920570103. ^ a b Brooks, Amy L. ; Wang, Shunli; Jambeck, Jenna R
+(June 2018)
+"The Chinese import ban and its impact on global plastic waste trade" 
+ Science Advances 
+ 4 (6) eaat0131
+ Bibcode : 2018SciA....4..131B 
+ doi : 10.1126/sciadv.aat0131 
+ PMC 6010324 
+ PMID 29938223. ^"Trashed: how the UK is still dumping plastic waste on the rest of the world" 
+ Greenpeace UK 
+16 May 2021 
+Retrieved 20 May 2021. ^ Bishop, George; Styles, David; Lens, Piet N.L
+(September 2020)
+"Recycling of European plastic is a pathway for plastic debris in the ocean" 
+ Environment International 
+ 142 105893
+ Bibcode : 2020EnInt.14205893B 
+ doi : 10.1016/j.envint.2020.105893 
+ hdl : 10344/9217 
+ PMID 32603969. ^ a b c d Environment, U
+N
+(21 October 2021)
+"Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics" 
+ UNEP - UN Environment Programme 
+Retrieved 23 March 2022. ^ Wang, Chao; Zhao, Longfeng; Lim, Ming K; Chen, Wei-Qiang; Sutherland, John W
+(February 2020)
+"Structure of the global plastic waste trade network and the impact of China's import Ban" 
+ Resources, Conservation and Recycling 
+ 153 104591
+ Bibcode : 2020RCR...15304591W 
+ doi : 10.1016/j.resconrec.2019.104591 
+ S2CID 214271589. ^"Piling Up: How China's Ban on Importing Waste Has Stalled Global Recycling" 
+ Yale E360 
+Retrieved 12 October 2020. ^ Leal Filho, Walter; Saari, Ulla; Fedoruk, Mariia; Iital, Arvo; Moora, Harri; Klöga, Marija; Voronova, Viktoria (March 2019)
+"An overview of the problems posed by plastic products and the role of extended producer responsibility in Europe" (PDF) 
+ Journal of Cleaner Production 
+ 214 : 550– 558
+ Bibcode : 2019JCPro.214..550L 
+ doi : 10.1016/j.jclepro.2018.12.256 
+ S2CID 158295219. ^"What Percentage of Plastic is Recycled Globally?" 
+ UCSB Bren School of Environmental Science & Management 
+18 December 2018 
+Retrieved 22 January 2024. ^ Nikiema, Josiane; Asiedu, Zipporah (April 2022)
+"A review of the cost and effectiveness of solutions to address plastic pollution" 
+ Environmental Science and Pollution Research 
+ 29 (17): 24547– 24573
+ Bibcode : 2022ESPR...2924547N 
+ doi : 10.1007/s11356-021-18038-5 
+ ISSN 0944-1344 
+ PMC 8783770 
+ PMID 35066854. ^ Lau, Winnie W
+Y.; Shiran, Yonathan; Bailey, Richard M.; Cook, Ed; Stuchtey, Martin R.; Koskella, Julia; Velis, Costas A.; Godfrey, Linda; Boucher, Julien; Murphy, Margaret B.; Thompson, Richard C.; Jankowska, Emilia; Castillo Castillo, Arturo; Pilditch, Toby D.; Dixon, Ben; Koerselman, Laura; Kosior, Edward; Favoino, Enzo; Gutberlet, Jutta; Baulch, Sarah; Atreya, Meera E.; Fischer, David; He, Kevin K.; Petit, Milan M.; Sumaila, U
+Rashid; Neil, Emily; Bernhofen, Mark V.; Lawrence, Keith; Palardy, James E
+(18 September 2020)
+"Evaluating scenarios toward zero plastic pollution" 
+ Science 
+ 369 (6510): 1455– 1461
+ Bibcode : 2020Sci...369.1455L 
+ doi : 10.1126/science.aba9475 
+ hdl : 10026.1/16767 
+ PMID 32703909 
+ S2CID 221767531. ^"Why plastic recycling is so confusing" 
+ BBC News 
+18 December 2018 
+Retrieved 6 August 2021. ^"Advancing Sustainable Materials Management: 2018 Tables and Figures" (PDF) 
+US_EPA 
+Retrieved 9 November 2021. ^"The Association of Plastics Recyclers | APR Design® Guide" 
+ The Association of Plastic Recyclers 
+Retrieved 24 February 2023. ^ a b Environment, U
+N
+(21 October 2021)
+"Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics" 
+ UNEP - UN Environment Programme 
+Retrieved 21 March 2022. ^ Shen, Li; Worrell, Ernst (2014),"Plastic Recycling" , Handbook of Recycling , Elsevier, pp. 179– 190, doi : 10.1016/b978-0-12-396459-5.00013-1 , ISBN 978-0-12-396459-5 , retrieved 13 November 2022 ^ a b Ritchie, Hannah ; Roser, Max (1 September 2018)
+"Plastic Pollution" 
+ Our World in Data 
+Retrieved 22 September 2021. ^ US EPA, OLEM (12 September 2017)
+"Plastics: Material-Specific Data" 
+ www.epa.gov 
+Retrieved 22 September 2021. ^ a b c d e"Plastics facts 2011" 
+ www.plasticseurope.org 
+2 June 2023. ^"An Introduction to Plastic Recycling" (PDF) 
+Plastic Waste Management Institute 
+Retrieved 22 September 2021. ^"Waste in Russia: Garbage of valuable resource?" 
+ www.ifc.org. ^ a b"Standard Practice for Coding Plastic Manufactured Articles for Resin Identification" 
+ Standard Practice for Coding Plastic Manufactured Articles for Resin Identification 
+ASTM International 
+Retrieved 21 January 2016. ^"19"
+ Holt Chemistry (Florida ed.)
+ Holt, Rinehart, and Winston 
+2006
+p. 702
+ ISBN 978-0-03-039114-9 
+ More than half the states in the United States have enacted laws that require plastic products to be labelled with numerical codes that identify the type of plastic used in them. ^ Official Journal of the EC; Commission Decision (97/129/EC) establishing the ID system for packaging materials pursuant to European Parliament & Council Directive 94/62/EC ^ a b Scott, Chris
+"poly(ethylene terephthalate) information and properties" 
+ PolymerProcessing.com 
+Retrieved 13 July 2017. ^ a b c d e f"Modulus of Elasticity or Young's Modulus – and Tensile Modulus for common Materials" 
+ EngineeringToolbox.com 
+Retrieved 13 July 2017. ^"Dyna Lab Corp" 
+ DynaLabCorp.com 
+Archived from the original on 22 November 2010 
+Retrieved 13 July 2017. ^ a b c"Sigma Aldrich" (PDF) 
+ Sigma-Aldrich 
+Archived from the original (PDF) on 15 March 2012 
+Retrieved 2 September 2024. ^ a b Scott, Chris
+"poly(vinyl chloride) information and properties" 
+ PolymerProcessing.com 
+Retrieved 13 July 2017. ^ a b Modern Plastics Encyclopedia 1999, p B158 to B216
+(Tensile modulus) ^"Dyna Lab Corp" 
+ DynaLabCorp.com 
+Archived from the original on 21 September 2011 
+Retrieved 13 July 2017. ^"Wofford University" 
+ LaSalle.edu 
+Archived from the original on 11 January 2010 
+Retrieved 13 July 2017. ^ a b Scott, Chris
+"polypropylene information and properties" 
+ PolymerProcessing.com 
+Retrieved 13 July 2017. ^"What is Polycarbonate (PC)?". ^ Scott, Chris
+"polycarbonate information and properties" 
+ PolymerProcessing.com 
+Retrieved 13 July 2017. ^"polycarbonate information and properties" 
+PolymerProcessing.com
+15 April 2001 
+Retrieved 27 October 2012. ^ a b Geyer, Roland (2020)
+ Plastic waste and recycling: environmental impact, societal issues, prevention, and solutions 
+Amsterdam: Academic Press
+p. 22
+ ISBN 978-0-12-817880-5. ^ The majority of polyurethanes are thermosets, however some thermoplastics are also produced, for instance spandex ^ PP&A stand for polyester , polyamide and acrylate polymers ; all of which are used to make synthetic fibres 
+Care should be taken not to confuse it with polyphthalamide (PPA) ^ Hahladakis, John N.; Velis, Costas A.; Weber, Roland; Iacovidou, Eleni; Purnell, Phil (February 2018)
+"An overview of chemical additives present in plastics: Migration, release, fate and environmental impact during their use, disposal and recycling" 
+ Journal of Hazardous Materials 
+ 344 : 179– 199
+ Bibcode : 2018JHzM..344..179H 
+ doi : 10.1016/j.jhazmat.2017.10.014 
+ PMID 29035713. ^ a b c d Cimpan, Ciprian; Maul, Anja; Wenzel, Henrik; Pretz, Thomas (January 2016)
+"Techno-economic assessment of central sorting at material recovery facilities – the case of lightweight packaging waste"
+ Journal of Cleaner Production 
+ 112 : 4387– 4397
+ Bibcode : 2016JCPro.112.4387C 
+ doi : 10.1016/j.jclepro.2015.09.011. ^ Faraca, Giorgia; Astrup, Thomas (July 2019)
+"Plastic waste from recycling centres: Characterisation and evaluation of plastic recyclability"
+ Waste Management 
+ 95 : 388– 398
+ Bibcode : 2019WaMan..95..388F 
+ doi : 10.1016/j.wasman.2019.06.038 
+ PMID 31351625 
+ S2CID 198331405. ^ Antonopoulos, Ioannis; Faraca, Giorgia; Tonini, Davide (May 2021)
+"Recycling of post-consumer plastic packaging waste in the EU: Recovery rates, material flows, and barriers" 
+ Waste Management 
+ 126 : 694– 705
+ Bibcode : 2021WaMan.126..694A 
+ doi : 10.1016/j.wasman.2021.04.002 
+ PMC 8162419 
+ PMID 33887695. ^ Poulsen, Otto M.; Breum, Niels O.; Ebbehøj, Niels; Hansen, Åse Marie; Ivens, Ulla I.; van Lelieveld, Duco; Malmros, Per; Matthiasen, Leo; Nielsen, Birgitte H.; Nielsen, Eva Møller; Schibye, Bente; Skov, Torsten; Stenbaek, Eva I.; Wilkins, Ken C
+(May 1995)
+"Sorting and recycling of domestic waste
+Review of occupational health problems and their possible causes"
+ Science of the Total Environment 
+ 168 (1): 33– 56
+ Bibcode : 1995ScTEn.168...33P 
+ doi : 10.1016/0048-9697(95)04521-2 
+ PMID 7610383. ^ Driedger, Alexander G.J.; Dürr, Hans H.; Mitchell, Kristen; Van Cappellen, Philippe (2015)
+"Plastic debris in the Laurentian Great Lakes: A review" 
+ Journal of Great Lakes Research 
+ 41 (1): 9– 19
+ Bibcode : 2015JGLR...41....9D 
+ doi : 10.1016/j.jglr.2014.12.020 
+ hdl : 10012/11956. ^ a b c Ragaert, Kim; Delva, Laurens; Van Geem, Kevin (November 2017)
+"Mechanical and chemical recycling of solid plastic waste"
+ Waste Management 
+ 69 : 24– 58
+ Bibcode : 2017WaMan..69...24R 
+ doi : 10.1016/j.wasman.2017.07.044 
+ PMID 28823699. ^ Bauer, Markus; Lehner, Markus; Schwabl, Daniel; Flachberger, Helmut; Kranzinger, Lukas; Pomberger, Roland; Hofer, Wolfgang (July 2018)
+"Sink–float density separation of post-consumer plastics for feedstock recycling" 
+ Journal of Material Cycles and Waste Management 
+ 20 (3): 1781– 1791
+ Bibcode : 2018JMCWM..20.1781B 
+ doi : 10.1007/s10163-018-0748-z. ^ Bonifazi, Giuseppe; Di Maio, Francesco; Potenza, Fabio; Serranti, Silvia (May 2016)
+"FT-IR Analysis and Hyperspectral Imaging Applied to Postconsumer Plastics Packaging Characterization and Sorting"
+ IEEE Sensors Journal 
+ 16 (10): 3428– 3434
+ Bibcode : 2016ISenJ..16.3428B 
+ doi : 10.1109/JSEN.2015.2449867 
+ S2CID 6670818. ^ Hubo, Sara; Delva, Laurens; Van Damme, Nicolas; Ragaert, Kim (2016)
+"Blending of recycled mixed polyolefins with recycled polypropylene: Effect on physical and mechanical properties" 
+ AIP Conference Proceedings 
+ 1779 : 140006
+ doi : 10.1063/1.4965586. ^ Wu, Guiqing; Li, Jia; Xu, Zhenming (March 2013)
+"Triboelectrostatic separation for granular plastic waste recycling: A review"
+ Waste Management 
+ 33 (3): 585– 597
+ Bibcode : 2013WaMan..33..585W 
+ doi : 10.1016/j.wasman.2012.10.014 
+ PMID 23199793 
+ S2CID 12323746. ^ Dodbiba, G.; Sadaki, J.; Okaya, K.; Shibayama, A.; Fujita, T
+(December 2005)
+"The use of air tabling and triboelectric separation for separating a mixture of three plastics"
+ Minerals Engineering 
+ 18 (15): 1350– 1360
+ Bibcode : 2005MiEng..18.1350D 
+ doi : 10.1016/j.mineng.2005.02.015. ^ Gundupalli, Sathish Paulraj; Hait, Subrata; Thakur, Atul (February 2017)
+"A review on automated sorting of source-separated municipal solid waste for recycling"
+ Waste Management 
+ 60 : 56– 74
+ Bibcode : 2017WaMan..60...56G 
+ doi : 10.1016/j.wasman.2016.09.015 
+ PMID 27663707. ^ Hollstein, Frank; Wohllebe, Markus; Arnaiz, Sixto (24 October 2015)
+"Identification and Sorting of Plastics Film Waste by NIR-Hyperspectral-Imaging"
+ Near Infrared Spectroscopy: Proceedings of the International Conference 
+ doi : 10.17648/NIR-2015-34127. ^ a b Kleinhans, Kerstin; Demets, Ruben; Dewulf, Jo; Ragaert, Kim; De Meester, Steven (June 2021)
+"Non-household end-use plastics: the 'forgotten' plastics for the circular economy" 
+ Current Opinion in Chemical Engineering 
+ 32 100680
+ doi : 10.1016/j.coche.2021.100680 
+ hdl : 1854/LU-8710264 
+ ISSN 2211-3398. ^ a b c Schyns, Zoé O
+G.; Shaver, Michael P
+(February 2021)
+"Mechanical Recycling of Packaging Plastics: A Review" 
+ Macromolecular Rapid Communications 
+ 42 (3) 2000415
+ doi : 10.1002/marc.202000415 
+ PMID 33000883. ^ Yin, Shi; Tuladhar, Rabin; Shi, Feng; Shanks, Robert A.; Combe, Mark; Collister, Tony (December 2015)
+"Mechanical reprocessing of polyolefin waste: A review"
+ Polymer Engineering & Science 
+ 55 (12): 2899– 2909
+ doi : 10.1002/pen.24182. ^ Babetto, Alex S.; Antunes, Marcela C.; Bettini, Sílvia H
+P.; Bonse, Baltus C
+(February 2020)
+"A Recycling-Focused Assessment of the Oxidative Thermomechanical Degradation of HDPE Melt Containing Pro-oxidant" 
+ Journal of Polymers and the Environment 
+ 28 (2): 699– 712
+ Bibcode : 2020JPEnv..28..699B 
+ doi : 10.1007/s10924-019-01641-6 
+ S2CID 209432804. ^ Aldas, Miguel; Paladines, Andrea; Valle, Vladimir; Pazmiño, Miguel; Quiroz, Francisco (2018)
+"Effect of the Prodegradant-Additive Plastics Incorporated on the Polyethylene Recycling" 
+ International Journal of Polymer Science 
+ 2018 : 1– 10
+ doi : 10.1155/2018/2474176. ^ Delva, Laurens; Hubo, Sara; Cardon, Ludwig; Ragaert, Kim (December 2018)
+"On the role of flame retardants in mechanical recycling of solid plastic waste"
+ Waste Management 
+ 82 : 198– 206
+ Bibcode : 2018WaMan..82..198D 
+ doi : 10.1016/j.wasman.2018.10.030 
+ PMID 30509582 
+ S2CID 54487823. ^ Paci, M; La Mantia, F.P (January 1999)
+"Influence of small amounts of polyvinylchloride on the recycling of polyethyleneterephthalate"
+ Polymer Degradation and Stability 
+ 63 (1): 11– 14
+ doi : 10.1016/S0141-3910(98)00053-6. ^ Pfaendner, R.; Herbst, H.; Hoffmann, K.; Sitek, F
+(October 1995)
+"Recycling and restabilization of polymers for high quality applications
+An Overview"
+ Angewandte Makromolekulare Chemie 
+ 232 (1): 193– 227
+ doi : 10.1002/apmc.1995.052320113. ^ Pfaendner, Rudolf (July 2022)
+"Restabilization – 30 years of research for quality improvement of recycled plastics Review" 
+ Polymer Degradation and Stability 
+ 203 110082
+ doi : 10.1016/j.polymdegradstab.2022.110082. ^ Zhang, Cong-Cong; Zhang, Fu-Shen (June 2012)
+"Removal of brominated flame retardant from electrical and electronic waste plastic by solvothermal technique" 
+ Journal of Hazardous Materials 
+ 221– 222: 193– 198
+ Bibcode : 2012JHzM..221..193Z 
+ doi : 10.1016/j.jhazmat.2012.04.033 
+ PMID 22575175. ^ Koning, C (1998)
+"Strategies for compatibilization of polymer blends"
+ Progress in Polymer Science 
+ 23 (4): 707– 757
+ doi : 10.1016/S0079-6700(97)00054-3 
+ hdl : 2268/4370. ^ Vilaplana, Francisco; Karlsson, Sigbritt (14 April 2008)
+"Quality Concepts for the Improved Use of Recycled Polymeric Materials: A Review" 
+ Macromolecular Materials and Engineering 
+ 293 (4): 274– 297
+ doi : 10.1002/mame.200700393. ^ a b Eriksen, M.K.; Christiansen, J.D.; Daugaard, A.E.; Astrup, T.F
+(August 2019)
+"Closing the loop for PET, PE and PP waste from households: Influence of material properties and product design for plastic recycling" (PDF) 
+ Waste Management 
+ 96 : 75– 85
+ Bibcode : 2019WaMan..96...75E 
+ doi : 10.1016/j.wasman.2019.07.005 
+ PMID 31376972 
+ S2CID 199067235. ^ a b"The New Plastics Economy: Rethinking the future of plastics & catalysing action" 
+ www.ellenmacarthurfoundation.org 
+January 2017 
+Retrieved 28 May 2021. ^ Welle, Frank (September 2011)
+"Twenty years of PET bottle to bottle recycling—An overview"
+ Resources, Conservation and Recycling 
+ 55 (11): 865– 875
+ Bibcode : 2011RCR....55..865W 
+ doi : 10.1016/j.resconrec.2011.04.009. ^ Schyns, Zoé O
+G.; Shaver, Michael P
+(February 2021)
+"Mechanical Recycling of Packaging Plastics: A Review" 
+ Macromolecular Rapid Communications 
+ 42 (3) 2000415
+ doi : 10.1002/marc.202000415 
+ PMID 33000883. ^ a b Shen, Li; Worrell, Ernst; Patel, Martin K
+(November 2010)
+"Open-loop recycling: A LCA case study of PET bottle-to-fibre recycling"
+ Resources, Conservation and Recycling 
+ 55 (1): 34– 52
+ Bibcode : 2010RCR....55...34S 
+ doi : 10.1016/j.resconrec.2010.06.014. ^ Huysman, Sofie; Debaveye, Sam; Schaubroeck, Thomas; Meester, Steven De; Ardente, Fulvio; Mathieux, Fabrice; Dewulf, Jo (August 2015)
+"The recyclability benefit rate of closed-loop and open-loop systems: A case study on plastic recycling in Flanders"
+ Resources, Conservation and Recycling 
+ 101 : 53– 60
+ Bibcode : 2015RCR...101...53H 
+ doi : 10.1016/j.resconrec.2015.05.014 
+ hdl : 1854/LU-6851927. ^ Geyer, Roland; Kuczenski, Brandon; Zink, Trevor; Henderson, Ashley (October 2016)
+"Common Misconceptions about Recycling"
+ Journal of Industrial Ecology 
+ 20 (5): 1010– 1017
+ Bibcode : 2016JInEc..20.1010G 
+ doi : 10.1111/jiec.12355 
+ S2CID 153936564. ^ Gupta, Arvind; Misra, Manjusri; Mohanty, Amar K
+(2021)
+"Novel sustainable materials from waste plastics: compatibilized blend from discarded bale wrap and plastic bottles" 
+ RSC Advances 
+ 11 (15): 8594– 8605
+ Bibcode : 2021RSCAd..11.8594G 
+ doi : 10.1039/D1RA00254F 
+ PMC 8695198 
+ PMID 35423365. ^ Yang, Wenqing; Dong, Qingyin; Liu, Shili; Xie, Henghua; Liu, Lili; Li, Jinhui (2012)
+"Recycling and Disposal Methods for Polyurethane Foam Wastes" 
+ Procedia Environmental Sciences 
+ 16 : 167– 175
+ Bibcode : 2012PrEnS..16..167Y 
+ doi : 10.1016/j.proenv.2012.10.023. ^ Zia, Khalid Mahmood; Bhatti, Haq Nawaz; Ahmad Bhatti, Ijaz (August 2007)
+"Methods for polyurethane and polyurethane composites, recycling and recovery: A review"
+ Reactive and Functional Polymers 
+ 67 (8): 675– 692
+ Bibcode : 2007RFPol..67..675Z 
+ doi : 10.1016/j.reactfunctpolym.2007.05.004. ^ Lee, Alicia; Liew, Mei Shan (January 2021)
+"Tertiary recycling of plastics waste: an analysis of feedstock, chemical and biological degradation methods"
+ Journal of Material Cycles and Waste Management 
+ 23 (1): 32– 43
+ Bibcode : 2021JMCWM..23...32L 
+ doi : 10.1007/s10163-020-01106-2 
+ S2CID 225247645. ^ Rahimi, AliReza; García, Jeannette M
+(June 2017)
+"Chemical recycling of waste plastics for new materials production"
+ Nature Reviews Chemistry 
+ 1 (6): 0046
+ doi : 10.1038/s41570-017-0046. ^ Coates, Geoffrey W.; Getzler, Yutan D
+Y
+L
+(July 2020)
+"Chemical recycling to monomer for an ideal, circular polymer economy"
+ Nature Reviews Materials 
+ 5 (7): 501– 516
+ Bibcode : 2020NatRM...5..501C 
+ doi : 10.1038/s41578-020-0190-4 
+ S2CID 215760966. ^ a b c Vollmer, Ina; Jenks, Michael J
+F.; Roelands, Mark C
+P.; White, Robin J.; Harmelen, Toon; Wild, Paul; Laan, Gerard P.; Meirer, Florian; Keurentjes, Jos T
+F.; Weckhuysen, Bert M
+(September 2020)
+"Beyond Mechanical Recycling: Giving New Life to Plastic Waste" 
+ Angewandte Chemie International Edition 
+ 59 (36): 15402– 15423
+ doi : 10.1002/anie.201915651 
+ PMC 7497176 
+ PMID 32160372. ^ a b c Thiounn, Timmy; Smith, Rhett C
+(15 May 2020)
+"Advances and approaches for chemical recycling of plastic waste" 
+ Journal of Polymer Science 
+ 58 (10): 1347– 1364
+ doi : 10.1002/pol.20190261. ^ Kumagai, Shogo; Nakatani, Jun; Saito, Yuko; Fukushima, Yasuhiro; Yoshioka, Toshiaki (1 November 2020)
+"Latest Trends and Challenges in Feedstock Recycling of Polyolefinic Plastics" 
+ Journal of the Japan Petroleum Institute 
+ 63 (6): 345– 364
+ doi : 10.1627/jpi.63.345. ^"Plastics - the Facts 2020" (PDF) 
+ PlasticsEurope 
+Retrieved 1 September 2021. ^ Kaminsky, W; Predel, M; Sadiki, A (September 2004)
+"Feedstock recycling of polymers by pyrolysis in a fluidised bed"
+ Polymer Degradation and Stability 
+ 85 (3): 1045– 1050
+ doi : 10.1016/j.polymdegradstab.2003.05.002. ^ Tournier, V.; Topham, C
+M.; Gilles, A.; David, B.; Folgoas, C.; Moya-Leclair, E.; Kamionka, E.; Desrousseaux, M.-L.; Texier, H.; Gavalda, S.; Cot, M
+(April 2020)
+"An engineered PET depolymerase to break down and recycle plastic bottles" 
+ Nature 
+ 580 (7802): 216– 219
+ Bibcode : 2020Natur.580..216T 
+ doi : 10.1038/s41586-020-2149-4 
+ ISSN 0028-0836 
+ PMID 32269349 
+ S2CID 215411815. ^ Wei, Ren; Zimmermann, Wolfgang (November 2017)
+"Microbial enzymes for the recycling of recalcitrant petroleum-based plastics: how far are we?" 
+ Microbial Biotechnology 
+ 10 (6): 1308– 1322
+ doi : 10.1111/1751-7915.12710 
+ PMC 5658625 
+ PMID 28371373. ^ Geyer, B.; Lorenz, G.; Kandelbauer, A
+(2016)
+"Recycling of poly(ethylene terephthalate) – A review focusing on chemical methods" 
+ Express Polymer Letters 
+ 10 (7): 559– 586
+ doi : 10.3144/expresspolymlett.2016.53. ^ Singh, Narinder; Hui, David; Singh, Rupinder; Ahuja, I.P.S.; Feo, Luciano; Fraternali, Fernando (April 2017)
+"Recycling of plastic solid waste: A state of art review and future applications"
+ Composites Part B: Engineering 
+ 115 : 409– 422
+ doi : 10.1016/j.compositesb.2016.09.013. ^"An Introduction to Plastic Recycling in Japan 2019" (PDF) 
+Plastic Waste Management Institute 
+Retrieved 19 May 2021. ^ US EPA, OLEM (12 September 2017)
+"Plastics: Material-Specific Data" 
+ US EPA. ^"Directive 2008/98/EC of the European Parliament and of the Council
+Article 3: Definitions" 
+ Legislation.gov.uk 
+2008
+Paragraph 15a 
+Retrieved 4 August 2021. ^ a b Mukherjee, C.; Denney, J.; Mbonimpa, E.G.; Slagley, J.; Bhowmik, R
+(1 March 2020)
+"A review on municipal solid waste-to-energy trends in the USA" 
+ Renewable and Sustainable Energy Reviews 
+ 119 109512
+ Bibcode : 2020RSERv.11909512M 
+ doi : 10.1016/j.rser.2019.109512 
+ S2CID 209798113. ^ Gradus, Raymond H.J.M.; Nillesen, Paul H.L.; Dijkgraaf, Elbert; van Koppen, Rick J
+(May 2017)
+"A Cost-effectiveness Analysis for Incineration or Recycling of Dutch Household Plastic Waste" 
+ Ecological Economics 
+ 135 : 22– 28
+ Bibcode : 2017EcoEc.135...22G 
+ doi : 10.1016/j.ecolecon.2016.12.021 
+ hdl : 1871.1/390ebc9d-5968-479b-bd72-23ffe7c85c43 
+ S2CID 21744131. ^"RDF Shredder: Refuse-derived fuel shredding solutions" 
+ MSW Shredder 
+Retrieved 31 July 2025. ^ Fukushima, Masaaki; Wu, Beili; Ibe, Hidetoshi; Wakai, Keiji; Sugiyama, Eiichi; Abe, Hironobu; Kitagawa, Kiyohiko; Tsuruga, Shigenori; Shimura, Katsumi; Ono, Eiichi (June 2010)
+"Study on dechlorination technology for municipal waste plastics containing polyvinyl chloride and polyethylene terephthalate"
+ Journal of Material Cycles and Waste Management 
+ 12 (2): 108– 122
+ Bibcode : 2010JMCWM..12..108F 
+ doi : 10.1007/s10163-010-0279-8 
+ S2CID 94190060. ^ Fernández-González, J.M.; Grindlay, A.L.; Serrano-Bernardo, F.; Rodríguez-Rojas, M.I.; Zamorano, M
+(September 2017)
+"Economic and environmental review of Waste-to-Energy systems for municipal solid waste management in medium and small municipalities"
+ Waste Management 
+ 67 : 360– 374
+ Bibcode : 2017WaMan..67..360F 
+ doi : 10.1016/j.wasman.2017.05.003 
+ PMID 28501263. ^ Nugroho, Arif Setyo; Chamim, Moch.; Hidayah, Fatimah N
+(2018)
+ Plastic waste as an alternative energy 
+Human-Dedicated Sustainable Product and Process Design: Materials
+AIP Conference Proceedings
+Vol. 1977
+p. 060010
+ Bibcode : 2018AIPC.1977f0010N 
+ doi : 10.1063/1.5043022. ^ a b Butler, E.; Devlin, G.; McDonnell, K
+(1 August 2011)
+"Waste Polyolefins to Liquid Fuels via Pyrolysis: Review of Commercial State-of-the-Art and Recent Laboratory Research"
+ Waste and Biomass Valorization 
+ 2 (3): 227– 255
+ Bibcode : 2011WBioV...2..227B 
+ doi : 10.1007/s12649-011-9067-5 
+ hdl : 10197/6103 
+ S2CID 98550187. ^ Anuar Sharuddin, Shafferina Dayana; Abnisa, Faisal; Wan Daud, Wan Mohd Ashri; Aroua, Mohamed Kheireddine (May 2016)
+"A review on pyrolysis of plastic wastes"
+ Energy Conversion and Management 
+ 115 : 308– 326
+ Bibcode : 2016ECM...115..308A 
+ doi : 10.1016/j.enconman.2016.02.037. ^ Kaminsky, W.; Schlesselmann, B.; Simon, C.M
+(August 1996)
+"Thermal degradation of mixed plastic waste to aromatics and gas"
+ Polymer Degradation and Stability 
+ 53 (2): 189– 197
+ doi : 10.1016/0141-3910(96)00087-0. ^ Quesada, L.; Calero, M.; Martín-Lara, M
+A.; Pérez, A.; Blázquez, G
+(1 November 2019)
+"Characterization of fuel produced by pyrolysis of plastic film obtained of municipal solid waste" 
+ Energy 
+ 186 115874
+ Bibcode : 2019Ene...18615874Q 
+ doi : 10.1016/j.energy.2019.115874 
+ ISSN 0360-5442 
+ S2CID 201243993. ^ Kumagai, Shogo; Yoshioka, Toshiaki (1 November 2016)
+"Feedstock Recycling via Waste Plastic Pyrolysis" 
+ Journal of the Japan Petroleum Institute 
+ 59 (6): 243– 253
+ doi : 10.1627/jpi.59.243. ^ Aguado, J.; Serrano, D
+P.; Escola, J
+M
+(5 November 2008)
+"Fuels from Waste Plastics by Thermal and Catalytic Processes: A Review"
+ Industrial & Engineering Chemistry Research 
+ 47 (21): 7982– 7992
+ doi : 10.1021/ie800393w. ^ Miandad, R.; Barakat, M
+A.; Aburiazaiza, Asad S.; Rehan, M.; Nizami, A
+S
+(1 July 2016)
+"Catalytic pyrolysis of plastic waste: A review"
+ Process Safety and Environmental Protection 
+ 102 : 822– 838
+ Bibcode : 2016PSEP..102..822M 
+ doi : 10.1016/j.psep.2016.06.022. ^ Rehan, M.; Miandad, R.; Barakat, M
+A.; Ismail, I
+M
+I.; Almeelbi, T.; Gardy, J.; Hassanpour, A.; Khan, M
+Z.; Demirbas, A.; Nizami, A
+S
+(1 April 2017)
+"Effect of zeolite catalysts on pyrolysis liquid oil" (PDF) 
+ International Biodeterioration & Biodegradation 
+ 119 : 162– 175
+ Bibcode : 2017IBiBi.119..162R 
+ doi : 10.1016/j.ibiod.2016.11.015. ^ Bukkarapu, Kiran Raj; Gangadhar, D
+Siva; Jyothi, Y.; Kanasani, Prasad (18 July 2018)
+"Management, conversion, and use of waste plastic as a source of sustainable energy to run automotive: a review"
+ Energy Sources, Part A: Recovery, Utilization, and Environmental Effects 
+ 40 (14): 1681– 1692
+ doi : 10.1080/15567036.2018.1486898 
+ S2CID 103779086. ^ Oasmaa, Anja (17 June 2019)
+"Pyrolysis of plastic waste: opportunities and challenges" 
+ Pyroliq 2019: Pyrolysis and Liquefaction of Biomass and Wastes 
+ 152 104804
+ECI Digital Archives
+ Bibcode : 2020JAAP..15204804Q 
+ doi : 10.1016/j.jaap.2020.104804 
+Retrieved 10 June 2021. ^ Benavides, Pahola Thathiana; Sun, Pingping; Han, Jeongwoo; Dunn, Jennifer B.; Wang, Michael (September 2017)
+"Life-cycle analysis of fuels from post-use non-recycled plastics" 
+ Fuel 
+ 203 : 11– 22
+ Bibcode : 2017Fuel..203...11B 
+ doi : 10.1016/j.fuel.2017.04.070 
+ OSTI 1353191. ^ Rollinson, Andrew Neil; Oladejo, Jumoke Mojisola (February 2019)
+" 'Patented blunderings', efficiency awareness, and self-sustainability claims in the pyrolysis energy from waste sector"
+ Resources, Conservation and Recycling 
+ 141 : 233– 242
+ Bibcode : 2019RCR...141..233R 
+ doi : 10.1016/j.resconrec.2018.10.038 
+ S2CID 115296275. ^"Scientists use plastic to make steel" 
+ CNN.com 
+Archived from the original on 12 August 2005 
+Retrieved 10 August 2005. ^ Nomura, Seiji (March 2015)
+"Use of Waste Plastics in Coke Oven: A Review" 
+ Journal of Sustainable Metallurgy 
+ 1 (1): 85– 93
+ Bibcode : 2015JSusM...1...85N 
+ doi : 10.1007/s40831-014-0001-5 
+ S2CID 137233367. ^ Khan, Kaffayatullah; Jalal, Fazal E.; Iqbal, Mudassir; Khan, Muhammad Imran; Amin, Muhammad Nasir; Al-Faiad, Majdi Adel (23 April 2022)
+"Predictive Modeling of Compression Strength of Waste PET/SCM Blended Cementitious Grout Using Gene Expression Programming" 
+ Materials 
+ 15 (9): 3077
+ Bibcode : 2022Mate...15.3077K 
+ doi : 10.3390/ma15093077 
+ ISSN 1996-1944 
+ PMC 9102582 
+ PMID 35591409. ^ Reis, J
+M
+L.; Carneiro, E
+P
+(1 February 2012)
+"Evaluation of PET waste aggregates in polymer mortars" 
+ Construction and Building Materials 
+ 27 (1): 107– 111
+ doi : 10.1016/j.conbuildmat.2011.08.020 
+ ISSN 0950-0618. ^ Gavela, Stamatia; Rakanta, Eleni; Ntziouni, Afroditi; Kasselouri-Rigopoulou, Vasilia (24 October 2022)
+"Eleven-Year Follow-Up on the Effect of Thermoplastic Aggregates' Addition to Reinforced Concrete" 
+ Buildings 
+ 12 (11): 1779
+ doi : 10.3390/buildings12111779 
+ ISSN 2075-5309. ^ Awoyera, P.O.; Adesina, A
+(June 2020)
+"Plastic wastes to construction products: Status, limitations and future perspective" 
+ Case Studies in Construction Materials 
+ 12 e00330
+ doi : 10.1016/j.cscm.2020.e00330 
+ S2CID 212815459. ^"Use of Plastic Waste in Road Construction" 
+ pib.gov.in. ^ Conlon, Katie (18 April 2021)
+"Plastic roads: not all they're paved up to be" 
+ International Journal of Sustainable Development & World Ecology 
+ 29 : 80– 83
+ doi : 10.1080/13504509.2021.1915406 
+ S2CID 234834344. ^ Dębska, Bernardeta; Brigolini Silva, Guilherme Jorge (January 2021)
+"Mechanical Properties and Microstructure of Epoxy Mortars Made with Polyethylene and Poly(Ethylene Terephthalate) Waste" 
+ Materials 
+ 14 (9): 2203
+ Bibcode : 2021Mate...14.2203D 
+ doi : 10.3390/ma14092203 
+ ISSN 1996-1944 
+ PMC 8123358 
+ PMID 33923013. ^ Thorneycroft, J.; Orr, J.; Savoikar, P.; Ball, R
+J
+(10 February 2018)
+"Performance of structural concrete with recycled plastic waste as a partial replacement for sand" 
+ Construction and Building Materials 
+ 161 : 63– 69
+ doi : 10.1016/j.conbuildmat.2017.11.127 
+ ISSN 0950-0618. ^ Bahij, Sifatullah; Omary, Safiullah; Feugeas, Francoise; Faqiri, Amanullah (15 July 2020)
+"Fresh and hardened properties of concrete containing different forms of plastic waste – A review" 
+ Waste Management 
+ 113 : 157– 175
+ Bibcode : 2020WaMan.113..157B 
+ doi : 10.1016/j.wasman.2020.05.048 
+ ISSN 0956-053X 
+ PMID 32534235 
+ S2CID 219637371. ^ CBC (8 October 2020) [Sep 23, 2020]
+"Recycling was a lie — a big lie — to sell more plastic, industry experts say" 
+ CBC Documentaries. ^ Dharna Noor (15 February 2024)
+" 'They lied': plastics producers deceived public about recycling, report reveals" 
+ theguardian.com 
+Retrieved 16 February 2024. ^ McCormick, Erin; Simmonds, Charlotte; Glenza, Jessica; Gammon, Katharine (21 June 2019)
+"Americans' plastic recycling is dumped in landfills, investigation shows" 
+ The Guardian 
+ ISSN 0261-3077 
+Retrieved 6 July 2024. ^ Petsko, Emily (11 March 2020)
+"Recycling Myth of the Month: Those numbered symbols on single-use plastics do not mean 'you can recycle me'" 
+ Oceana 
+Retrieved 12 October 2020. External links [ edit ] ISF's Plastics Recovery Manual v t e Recycling Materials Aluminium Asphalt Concrete Copper Cotton Energy Glass Gypsum Paper Plastic Refrigerant Scrap Timber Cooking oil Water Products Appliances Automotive oil Batteries Bottles PET bottles Computers Drugs Fluorescent lamps Lumber Mobile phones Paint Ships Textiles Tires Vehicles Apparatus Bins Blue bags Blue boxes Codes Collection Materials recovery facility Waste sorting Countries Rate by country Australia Brazil Canada Ireland Israel Japan Malaysia Mongolia Netherlands Switzerland Taiwan United Kingdom Northern Ireland United States Concepts Circular economy Dematerialization Downcycling Durable good Eco-industrial park Ecological design Extended producer responsibility Green economy Industrial ecology Industrial metabolism Interchangeable parts Land recycling Material flow analysis Precycling Product stewardship Recycling (ecological) Refill (campaign) Repairability Resource recovery Reusable packaging Reuse of bottles Reuse of human excreta Repurposing Reuse Right to repair Symbol ( Green Dot ) Upcycling Urban lumberjacking Waste hierarchy Waste minimisation Waste picking Wishcycling Zero waste See also Bottle cutting Cogeneration Composting Container-deposit legislation Dumpster diving Ethical consumerism Freeganism Pallet crafts Reverse vending machine Simple living Waste Waste-to-energy Waste collection Waste management law Waste management Water heat recycling Water recycling shower Environment portal Category by country by material by product organizations Index Commons v t e Plastics Chemical types Acrylonitrile butadiene styrene (ABS) Cross-linked polyethylene (PEX, XLPE) Ethylene vinyl acetate (EVA) Poly(methyl methacrylate) (PMMA) Poly(ethyl methacrylate) (PEMA) Polyacrylic acid (PAA) Polyamide (PA) Polybutylene (PB) Polybutylene terephthalate (PBT) Polycarbonate (PC) Polyetheretherketone (PEEK) Polyester (PEs) Polyethylene (PE) Polyethylene terephthalate (PET, PETE) Polyimide (PI) Polylactic acid (PLA) Polyoxymethylene (POM) Polyphenyl ether (PPE) Poly(p-phenylene oxide) (PPO) Polypropylene (PP) Polystyrene (PS) Polysulfone (PES) Polytetrafluoroethylene (PTFE) Polyurethane (PU) Polyvinyl chloride (PVC) Polyvinylidene chloride (PVDC) Styrene maleic anhydride (SMA) Styrene-acrylonitrile (SAN) Tritan copolyester Mechanical types Thermoplastic Thermosetting polymer Fibre-reinforced plastic Corrugated plastic Polymeric foam High-performance plastics Additives Polymer additive Colorants Plasticizer Polymer stabilizers Biodegradable additives Filler (materials) Plastics processing Injection moulding Plastic extrusion Blow molding Film blowing Thermoforming Compression molding Calendering Transfer molding Laminating Fiberglass molding Pultrusion Plastic welding Filament winding Solvent bonding Vacuum forming Rotational molding Products Plastics industry segments Commodity plastics Construction Engineering plastics Geosynthetics High-performance plastics Nurdle Category:Plastics applications Plasticulture (Agriculture) Specific goods Blister pack Chairs Packaging film Bottles Bags Cutlery Shopping bags Foam food containers Environment and health v t e Health issues of plastics and polyhalogenated compounds (PHCs) Plasticizers : Phthalates DIBP DBP BBP (BBzP) DIHP DEHP (DOP) DIDP DINP Miscellaneous plasticizers Organophosphates Adipates ( DEHA DOA ) Monomers Bisphenol A (BPA, in Polycarbonates ) Vinyl chloride (in PVC ) Miscellaneous additives incl
+PHCs PBDEs PCBs Organotins PFCs Perfluorooctanoic acid Health issues Teratogen Carcinogen Endocrine disruptor Diabetes Obesity Polymer fume fever Pollution Plastic pollution Rubber pollution Great Pacific Garbage Patch Persistent organic pollutant Dioxins List of environmental health hazards Regulations California Proposition 65 European REACH regulation Japan Toxic Substances Law Toxic Substances Control Act Waste Plastic pollution Garbage patch Great Pacific Garbage Patch Persistent organic pollutant Dioxins List of environmental health hazards Plastic recycling Biodegradable plastic Identification codes Retrieved from" https://en.wikipedia.org/w/index.php?title=Plastic_recycling&oldid=1322819226" Categories : Plastic recycling Recycling by material Energy conservation Hidden categories: Pages using the Graph extension Pages with disabled graphs CS1 maint: DOI inactive as of July 2025 CS1: long volume value Articles with short description Short description is different from Wikidata Use British English from July 2021 All Wikipedia articles written in British English Use dmy dates from July 2021 Pages using multiple image with auto scaled images Commons category link is on Wikidata Free-content attribution Free content from United Nations Environment Programme 
