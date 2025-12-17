@@ -1,155 +1,36 @@
-import os
-import shutil
-import bs4
-
-# Loaders
-from langchain_community.document_loaders import WebBaseLoader, DirectoryLoader, PyPDFLoader, TextLoader
-# Core y Vector Store
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+# RAG/preload_database.py
 from langchain_chroma import Chroma
 from langchain_ollama import OllamaEmbeddings
-
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from preproces_data import extraer_por_titulos
 # Configuración
 from config import DB_PATH, EMBEDDING_MODEL, URL_TARGET, DATA_PATH
 
-def get_web_content():
-    """
-    Función general: 
-    Extrae información básica de la web definida.
-    Retorna: Lista de documentos brutos.
-    """
-    print(f"--- [WEB] Iniciando carga desde: {URL_TARGET}")
-    try:
-        loader = WebBaseLoader(
-            web_paths=(URL_TARGET,),
-            bs_kwargs=dict(parse_only=bs4.SoupStrainer(
-                class_=("post-content", "post-title", "post-header")
-            ))
-        )
-        docs = loader.load()
-        for doc in docs:
-            # 1. Metadatos para filtrado posterior
-            doc.metadata["category"] = "general"
-            doc.metadata["priority"] = "low"
-            
-            # 2. Modificación del contenido (Opcional pero recomendado)
-            # Añadimos una cabecera para que el LLM sepa que esto es info pública
-            doc.page_content = f"[FUENTE PÚBLICA/WEB] {doc.page_content}"
-
-        print(f"   -> [WEB] {len(docs)} documentos marcados como 'general'.")
-        return docs
-    except Exception as e:
-        print(f"   -> [WEB] Error cargando la web: {e}")
-        return []
-def get_local_content():
-    """
-    Función especializada:
-    Extrae información específica de documentos PDF y TXT locales.
-    """
-    print(f"--- [LOCAL] Buscando documentos en: {DATA_PATH}")
-    if not os.path.exists(DATA_PATH):
-        print(f"   -> [LOCAL] Alerta: La carpeta {DATA_PATH} no existe.")
-        return []
-
-    local_docs = []
-
-    # -----------------------------------------------------------
-    # 1. Cargar PDFs
-    # -----------------------------------------------------------
-    try:
-        loader_pdf = DirectoryLoader(
-            DATA_PATH, 
-            glob="**/*.pdf", 
-            loader_cls=PyPDFLoader,
-            show_progress=True
-        )
-        docs_pdf = loader_pdf.load()
-        print(f"   -> Encontrados {len(docs_pdf)} PDFs.")
-        local_docs.extend(docs_pdf)
-    except Exception as e:
-        print(f"   -> Error leyendo PDFs: {e}")
-
-    # -----------------------------------------------------------
-    # Cargar TXT
-    # -----------------------------------------------------------
-    try:
-        # loader_kwargs={'autodetect_encoding': True} ayuda si tienes archivos con ñ o tildes
-        loader_txt = DirectoryLoader(
-            DATA_PATH, 
-            glob="**/*.txt", 
-            loader_cls=TextLoader,
-            loader_kwargs={'autodetect_encoding': True}, 
-            show_progress=True
-        )
-        docs_txt = loader_txt.load()
-        print(f"   -> Encontrados {len(docs_txt)} TXTs.")
-        local_docs.extend(docs_txt)
-    except Exception as e:
-        print(f"   -> Error leyendo TXTs: {e}")
-
-    # -----------------------------------------------------------
-    # 3. Procesamiento y Etiquetado (Común para todos)
-    # -----------------------------------------------------------
-    if not local_docs:
-        print("   -> [LOCAL] No se encontraron archivos válidos.")
-        return []
-
-    for doc in local_docs:
-        # Metadatos de prioridad
-        doc.metadata["category"] = "specialized"
-        doc.metadata["priority"] = "high"
-        
-        # Inyección de autoridad en el texto
-        # Esto aplicará tanto a los PDFs como a los TXTs
-        doc.page_content = f"[DOCUMENTO INTERNO OFICIAL] {doc.page_content}"
-        
-    print(f"   -> [LOCAL] Total: {len(local_docs)} documentos marcados como 'specialized'.")
-    return local_docs
-
-def create_vector_db(all_docs):
-    """
-    Función Orquestadora:
-    Recibe todos los documentos, limpia la BD antigua y genera la nueva.
-    """
-    if not all_docs:
-        print("!!! No hay documentos para procesar. Abortando.")
-        return
-
-    # Limpieza de BD existente
-    if os.path.exists(DB_PATH):
-        shutil.rmtree(DB_PATH)
-        print(f"--- [DB] Base de datos anterior eliminada en {DB_PATH}")
-
-    # Splitting (Dividir texto)
-    print("--- [PROCESAMIENTO] Dividiendo textos...")
+def preparar_base_datos():
+    print(f"--- [CARGA] Procesando el PDF...")
+    pdf_path = "RAG/docs/guia.pdf"
+    
+    # Extracción por títulos
+    secciones_grandes = extraer_por_titulos(pdf_path)
+    
+    # Configuramos un splitter de refuerzo (ej. 1000 caracteres)
+    # El overlap de 100 ayuda a que no se corten frases importantes
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=1000, 
-        chunk_overlap=200,
-        add_start_index=True
+        chunk_overlap=100
     )
-    splits = text_splitter.split_documents(all_docs)
-    print(f"   -> Total de fragmentos creados: {len(splits)}")
+    
+    # 3. Dividimos las secciones que se pasen de la raya
+    docs_finales = text_splitter.split_documents(secciones_grandes)
 
-    # Guardado en Chroma
-    print("--- [PROCESAMIENTO] Generando Embeddings (esto tarda)...")
-    Chroma.from_documents(
-        documents=splits,
+    print(f"--- [PROCESAMIENTO] De {len(secciones_grandes)} secciones han salido {len(docs_finales)} fragmentos.")
+
+    # 4. Ahora sí, a la base de datos
+    vectorstore = Chroma.from_documents(
+        documents=docs_finales,
         embedding=OllamaEmbeddings(model=EMBEDDING_MODEL),
         persist_directory=DB_PATH
     )
-    print(f"¡LISTO! Base de datos regenerada en '{DB_PATH}'")
-
+    print("¡LISTO! Base de datos regenerada.")
 if __name__ == "__main__":
-    # --- EJECUCIÓN PRINCIPAL ---
-    
-    # Obtenemos datos de la fuente general
-    docs_web = get_web_content()
-    
-    # Obtenemos datos de la fuente específica
-    docs_local = get_local_content()
-    
-    # Juntamos todo en una sola lista
-    full_corpus = docs_web + docs_local
-    
-    # Creamos la base de datos
-    create_vector_db(full_corpus)
+    preparar_base_datos()

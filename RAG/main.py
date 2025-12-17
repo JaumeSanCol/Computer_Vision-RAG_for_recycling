@@ -13,8 +13,11 @@ def main():
     question = args.query
     while question != "exit":
         if not question:
-            print("\n--- Sistema RAG Local (Ollama) ---")
+            print("\n--- Sistema RAG Local ---")
         question = input("Escribe tu pregunta: ")
+        if question == "exit":
+            print("Saliendo...")
+            break
         start=time.time()   
         query_stream(question)
         end=time.time()

@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "material": "Botella de agua PET",
+    "query": "¿Dónde tiro una botella de agua de plástico vacía?",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase de plástico. Todos los envases de plástico, latas y briks van al contenedor amarillo."
+  },
+  {
+    "id": 2,
+    "material": "Caja de cartón limpia",
+    "query": "Caja de zapatos de cartón",
+    "contenedor": "Azul",
+    "explicacion": "El cartón limpio y plegado debe depositarse en el contenedor azul."
+  },
+  {
+    "id": 3,
+    "material": "Botellín de vidrio",
+    "query": "Botella de cerveza vacía",
+    "contenedor": "Verde",
+    "explicacion": "El vidrio va al contenedor verde. Recuerda retirar los tapones o chapas antes."
+  },
+  {
+    "id": 4,
+    "material": "Lata de refresco",
+    "query": "Lata de aluminio de cola",
+    "contenedor": "Amarillo",
+    "explicacion": "Las latas de bebidas son envases metálicos y pertenecen al contenedor amarillo."
+  },
+  {
+    "id": 5,
+    "material": "Caja de pizza (sucia)",
+    "query": "Cartón de pizza con grasa y aceite",
+    "contenedor": "Marrón (Orgánico) o Gris (Resto)",
+    "explicacion": "El cartón manchado de grasa no se recicla en el azul. Si tienes contenedor marrón, va ahí; si no, al gris."
+  },
+  {
+    "id": 6,
+    "material": "Vaso de cristal roto",
+    "query": "Se rompió un vaso de cocina",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "El cristal contiene plomo u otros metales y funde a distinta temperatura que el vidrio. Nunca al verde."
+  },
+  {
+    "id": 7,
+    "material": "Tetra Brik",
+    "query": "Cartón de leche o zumo",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase compuesto (cartón, plástico y aluminio). Siempre va al contenedor amarillo."
+  },
+  {
+    "id": 8,
+    "material": "Pañales",
+    "query": "Pañales sucios de bebé",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Son residuos higiénicos no reciclables."
+  },
+  {
+    "id": 9,
+    "material": "Pilas",
+    "query": "Pilas alcalinas AA gastadas",
+    "contenedor": "Punto de recogida específico",
+    "explicacion": "Son muy contaminantes. Busca contenedores específicos en supermercados o paradas de autobús, o ve al Punto Limpio."
+  },
+  {
+    "id": 10,
+    "material": "Bombilla LED",
+    "query": "Bombilla de bajo consumo fundida",
+    "contenedor": "Punto Limpio o Comercio",
+    "explicacion": "Contienen componentes electrónicos. No van al vidrio. Llévalas a puntos de recogida en ferreterías o Punto Limpio."
+  },
+  {
+    "id": 11,
+    "material": "Cápsulas de café",
+    "query": "Cápsulas Nespresso usadas",
+    "contenedor": "Punto de recogida de marca o Punto Limpio",
+    "explicacion": "No se consideran envases estándar por tener posos orgánicos dentro. Busca puntos de recogida específicos."
+  },
+  {
+    "id": 12,
+    "material": "Blíster de medicamentos",
+    "query": "Envase de pastillas vacío",
+    "contenedor": "Punto SIGRE (Farmacias)",
+    "explicacion": "Todo lo relacionado con medicamentos (cajas, prospectos, blísters) va al punto SIGRE de la farmacia."
+  },
+  {
+    "id": 13,
+    "material": "Espejo",
+    "query": "Trozos de espejo roto",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "El espejo tiene una capa reflectante metálica. No es vidrio reciclable para el contenedor verde."
+  },
+  {
+    "id": 14,
+    "material": "Servilleta usada",
+    "query": "Papel de cocina sucio de comida",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "La celulosa sucia de materia orgánica es compostable. Va al marrón."
+  },
+  {
+    "id": 15,
+    "material": "Juguete de plástico",
+    "query": "Muñeco o coche de plástico viejo",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "Aunque sea plástico, no es un envase. Si no se puede donar, va al resto o punto limpio."
+  },
+  {
+    "id": 16,
+    "material": "Poliestireno (Corcho blanco)",
+    "query": "Bandeja de corcho blanco de la fruta",
+    "contenedor": "Amarillo",
+    "explicacion": "El poliestireno expandido es un envase plástico reciclable en el contenedor amarillo."
+  },
+  {
+    "id": 17,
+    "material": "Papel de aluminio",
+    "query": "Papel albal del bocadillo",
+    "contenedor": "Amarillo",
+    "explicacion": "El aluminio es reciclable indefinidamente. Va al amarillo, incluso si tiene algo de restos de comida."
+  },
+  {
+    "id": 18,
+    "material": "Cepillo de dientes",
+    "query": "Cepillo de dientes viejo",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Es un producto de plástico compuesto, no un envase. No se recicla en el amarillo."
+  },
+  {
+    "id": 19,
+    "material": "Restos de fruta",
+    "query": "Piel de plátano",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Residuo orgánico biodegradable ideal para compostaje."
+  },
+  {
+    "id": 20,
+    "material": "Tapa metálica",
+    "query": "Tapa del bote de mermelada",
+    "contenedor": "Amarillo",
+    "explicacion": "El bote de vidrio va al verde, pero su tapa metálica debe ir al contenedor amarillo."
+  },
+  {
+    "id": 21,
+    "material": "Vaso de yogur",
+    "query": "Envase de yogur de plástico",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase ligero de plástico. Va al contenedor amarillo."
+  },
+  {
+    "id": 22,
+    "material": "Sobre con ventana",
+    "query": "Sobre de carta con ventana de plástico",
+    "contenedor": "Azul",
+    "explicacion": "Aunque tenga una ventanita de plástico, el proceso de reciclaje de papel lo separa. Tíralo al azul."
+  },
+  {
+    "id": 23,
+    "material": "Plato de cerámica",
+    "query": "Vajilla rota o plato de cerámica",
+    "contenedor": "Gris (Resto) o Punto Limpio",
+    "explicacion": "La cerámica no es vidrio y arruina el reciclaje si se tira al contenedor verde."
+  },
+  {
+    "id": 24,
+    "material": "Aceite de cocina",
+    "query": "Aceite usado de freír",
+    "contenedor": "Contenedor Naranja o Punto Limpio",
+    "explicacion": "Nunca lo tires por el desagüe. Guárdalo en una botella de plástico cerrada y busca el contenedor específico o punto limpio."
+  },
+  {
+    "id": 25,
+    "material": "CD o DVD",
+    "query": "Discos viejos CD",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "Están hechos de policarbonato y aluminio, no son envases. Deben ir al punto limpio para su correcta gestión."
+  },
+  {
+    "id": 26,
+    "material": "Ropa vieja",
+    "query": "Camiseta rota o pantalones viejos",
+    "contenedor": "Contenedor de Ropa / Textil",
+    "explicacion": "La ropa no va a la basura normal. Busca contenedores de ONGs o municipales para textil."
+  },
+  {
+    "id": 27,
+    "material": "Aerosol vacío",
+    "query": "Bote de laca o desodorante en spray gastado",
+    "contenedor": "Amarillo",
+    "explicacion": "Si es un producto de hogar/cosmética y está vacío, es un envase metálico reciclable en el amarillo."
+  },
+  {
+    "id": 28,
+    "material": "Aerosol químico",
+    "query": "Spray de pintura o insecticida lleno o vacío",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Los productos químicos peligrosos deben gestionarse en el Punto Limpio por seguridad."
+  },
+  {
+    "id": 29,
+    "material": "Bolsa de patatas fritas",
+    "query": "Envoltorio de snacks plateado por dentro",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase de plástico compuesto (generalmente metalizado). Va al contenedor amarillo."
+  },
+  {
+    "id": 30,
+    "material": "Mascarilla desechable",
+    "query": "Mascarillas quirúrgicas o FFP2",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Por motivos sanitarios y composición, no son reciclables. Van siempre al contenedor de resto."
+  },
+  {
+    "id": 31,
+    "material": "Toallitas húmedas",
+    "query": "Toallitas de bebé o desmaquillantes",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Contienen fibras sintéticas que no se deshacen. Nunca al inodoro ni al orgánico. Van al resto."
+  },
+  {
+    "id": 32,
+    "material": "Bolígrafo",
+    "query": "Boli gastado o rotulador seco",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Es un utensilio de escritura (plástico y tinta), no un envase. No va al amarillo."
+  },
+  {
+    "id": 33,
+    "material": "Tapón de corcho",
+    "query": "Corcho de una botella de vino",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Si es corcho natural, es madera/orgánico. Si es de plástico sintético, al amarillo."
+  },
+  {
+    "id": 34,
+    "material": "Guantes de goma/látex",
+    "query": "Guantes de fregar rotos",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "No son envases. Van al contenedor de basura general."
+  },
+  {
+    "id": 35,
+    "material": "Radiografía",
+    "query": "Radiografías médicas viejas",
+    "contenedor": "Punto Limpio o Farmacias colaboradoras",
+    "explicacion": "Contienen sales de plata. No se tiran a la basura doméstica."
+  },
+  {
+    "id": 36,
+    "material": "Cartucho de tinta",
+    "query": "Tóner de impresora vacío",
+    "contenedor": "Punto Limpio o Tienda de electrónica",
+    "explicacion": "Son residuos electrónicos (RAEE) o consumibles que requieren tratamiento especial."
+  },
+  {
+    "id": 37,
+    "material": "Termómetro de mercurio",
+    "query": "Termómetro antiguo roto",
+    "contenedor": "Punto Limpio (Zona residuos peligrosos)",
+    "explicacion": "El mercurio es altamente tóxico. Extremar precaución y llevar a punto limpio."
+  },
+  {
+    "id": 38,
+    "material": "Arena de gato",
+    "query": "Arena de mascotas usada",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Aunque sea biodegradable, suele contener heces con patógenos, por lo que muchas normativas prohíben tirarla al orgánico."
+  },
+  {
+    "id": 39,
+    "material": "Pelos y uñas",
+    "query": "Restos de cortar el pelo",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Es materia orgánica biodegradable."
+  },
+  {
+    "id": 40,
+    "material": "Bolsita de té",
+    "query": "Infusión o bolsa de té usada",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Si la bolsita es de papel y no tiene grapa, va al orgánico. Si es de nylon, habría que vaciarla y tirar la bolsa al resto."
+  },
+  {
+    "id": 41,
+    "material": "Chicle",
+    "query": "Chicle mascado",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "La goma de mascar es un derivado del petróleo difícil de degradar. No va al orgánico."
+  },
+  {
+    "id": 42,
+    "material": "Mechero",
+    "query": "Encendedor de plástico gastado",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "No es un envase. Si tiene gas residual es peligroso, idealmente a Punto Limpio, si no, resto."
+  },
+  {
+    "id": 43,
+    "material": "Tubo de pasta de dientes",
+    "query": "Dentífrico acabado",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase de plástico (o plástico y aluminio). Se recicla en el amarillo."
+  },
+  {
+    "id": 44,
+    "material": "Malla de fruta",
+    "query": "Red de plástico de las naranjas",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envoltorio/envase de plástico. Al amarillo."
+  },
+  {
+    "id": 45,
+    "material": "Posos de café",
+    "query": "Restos de café de la cafetera",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Excelente residuo para compostaje. Va al contenedor marrón."
+  },
+  {
+    "id": 46,
+    "material": "Caja de madera pequeña",
+    "query": "Cajita de fresas o fruta pequeña",
+    "contenedor": "Amarillo",
+    "explicacion": "Las cajas pequeñas de madera se consideran envases y se aceptan en el amarillo. Si es una caja grande, al Punto Limpio."
+  },
+  {
+    "id": 47,
+    "material": "Papel plastificado/térmico",
+    "query": "Ticket de la compra o papel encerado de carnicería",
+    "contenedor": "Azul (con matices) o Gris",
+    "explicacion": "Ecoembes indica azul, pero si el papel tiene mucha cera o plástico (como el de carnicería muy sucio), mejor al gris para no contaminar el reciclaje de papel."
+  },
+  {
+    "id": 48,
+    "material": "Goma de borrar",
+    "query": "Goma de borrar gastada",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Material sintético no envase. Contenedor de resto."
+  },
+  {
+    "id": 49,
+    "material": "Sartén vieja",
+    "query": "Sartén de teflón rayada",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Es residuo metálico pero no es un envase. No va al amarillo. Debe gestionarse en el Punto Limpio."
+  },
+  {
+    "id": 50,
+    "material": "Cubo de fregar",
+    "query": "Cubo de plástico de limpieza roto",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "Es un objeto de plástico duro, no un envase ligero. No va al amarillo."
+  },
+  {
+    "id": 51,
+    "material": "Bolsas de plástico",
+    "query": "Bolsas del supermercado",
+    "contenedor": "Amarillo",
+    "explicacion": "El polietileno de baja densidad (LDPE) de las bolsas es totalmente reciclable en el amarillo."
+  },
+  {
+    "id": 52,
+    "material": "Film transparente",
+    "query": "Plástico film de envolver comida",
+    "contenedor": "Amarillo",
+    "explicacion": "Es un envase de plástico flexible. Al amarillo."
+  },
+  {
+    "id": 53,
+    "material": "Bote de pintura vacío",
+    "query": "Lata de pintura plástica vacía",
+    "contenedor": "Punto Limpio (preferible) o Amarillo (si es bricolaje doméstico)",
+    "explicacion": "Si es un envase doméstico vacío, puede ir al amarillo, pero si tiene restos de pintura líquida es tóxico y va al Punto Limpio."
+  },
+  {
+    "id": 54,
+    "material": "Tarjeta de crédito",
+    "query": "Tarjeta bancaria caducada",
+    "contenedor": "Gris (Resto) o Punto Limpio (RAEE)",
+    "explicacion": "Tiene chip electrónico y plástico PVC. Lo ideal es punto limpio (electrónica), si no, al resto cortada."
+  },
+  {
+    "id": 55,
+    "material": "Palillo de dientes",
+    "query": "Palillo de madera usado",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Es madera natural pequeña, biodegradable."
+  },
+  {
+    "id": 56,
+    "material": "Plástico (Genérico)",
+    "query": "¿Dónde se tira el plástico?",
+    "contenedor": "Depende (Amarillo o Resto/Punto Limpio)",
+    "explicacion": "Si es un envase (botella, envoltorio, bolsa), va al amarillo. Si es un objeto (juguete, cubo, silla), va al resto o punto limpio."
+  },
+  {
+    "id": 57,
+    "material": "Cartón",
+    "query": "Reciclar cartón",
+    "contenedor": "Azul",
+    "explicacion": "Todo el cartón limpio y plegado va al contenedor azul. Si está manchado de grasa, al orgánico/resto."
+  },
+  {
+    "id": 58,
+    "material": "Papel",
+    "query": "¿En qué contenedor va el papel?",
+    "contenedor": "Azul",
+    "explicacion": "El papel de escritura, periódicos y revistas va al azul. Papel sucio o plastificado no."
+  },
+  {
+    "id": 59,
+    "material": "Vidrio",
+    "query": "Tirar cosas de vidrio",
+    "contenedor": "Verde",
+    "explicacion": "Botellas, frascos y tarros de vidrio van al verde. Cristales de ventanas o espejos NO."
+  },
+  {
+    "id": 60,
+    "material": "Aluminio",
+    "query": "¿Dónde reciclo aluminio?",
+    "contenedor": "Amarillo",
+    "explicacion": "El papel de aluminio y bandejas de comida son envases y van al amarillo."
+  },
+  {
+    "id": 61,
+    "material": "Madera (pequeña)",
+    "query": "¿Dónde va la madera?",
+    "contenedor": "Amarillo (si es caja de fruta) o Punto Limpio",
+    "explicacion": "Cajas pequeñas de fruta/fresas van al amarillo. Muebles o tablas van al Punto Limpio."
+  },
+  {
+    "id": 62,
+    "material": "Orgánico",
+    "query": "Basura orgánica",
+    "contenedor": "Marrón",
+    "explicacion": "Restos de comida, jardinería pequeña y papel manchado de comida."
+  },
+  {
+    "id": 63,
+    "material": "Metal",
+    "query": "Tengo cosas de metal",
+    "contenedor": "Amarillo (Envases) o Punto Limpio (Chatarra)",
+    "explicacion": "Si es lata de conserva/bebida, al amarillo. Si es una sartén o hierro, al Punto Limpio."
+  },
+  {
+    "id": 64,
+    "material": "Cristal",
+    "query": "Diferencia entre vidrio y cristal",
+    "contenedor": "Gris (Resto) o Punto Limpio",
+    "explicacion": "El cristal (vasos, copas, ventanas) tiene plomo y funde a otra temperatura. Nunca al contenedor verde."
+  },
+  {
+    "id": 65,
+    "material": "Tela / Textil",
+    "query": "¿Dónde tiro ropa o trapos de tela?",
+    "contenedor": "Contenedor de Ropa o Punto Limpio",
+    "explicacion": "Los textiles no van a la basura normal. Busca contenedores específicos de ONGs o municipales."
+  },
+  {
+    "id": 66,
+    "material": "Cerámica",
+    "query": "Restos de cerámica",
+    "contenedor": "Gris (Resto) o Punto Limpio",
+    "explicacion": "La cerámica (loza, porcelana) es escombro, no envase. Va al resto o punto limpio."
+  },
+  {
+    "id": 67,
+    "material": "Goma / Caucho",
+    "query": "Material de goma",
+    "contenedor": "Gris (Resto) o Punto Limpio",
+    "explicacion": "La goma no es un envase. Si son neumáticos, requieren gestión especial."
+  },
+  {
+    "id": 68,
+    "material": "Poliestireno",
+    "query": "Porexpán o corcho blanco",
+    "contenedor": "Amarillo",
+    "explicacion": "Se considera envase de plástico. Al amarillo."
+  },
+  {
+    "id": 69,
+    "material": "Celulosa",
+    "query": "Papel de celulosa",
+    "contenedor": "Azul (Limpio) o Marrón (Sucio)",
+    "explicacion": "Papel higiénico o servilletas sucias van al orgánico/resto. Folios limpios al azul."
+  },
+  {
+    "id": 70,
+    "material": "Electrónica",
+    "query": "Basura electrónica",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Cualquier cosa con cables, pilas o chips es RAEE y debe ir obligatoriamente al Punto Limpio."
+  },
+  {
+    "id": 71  ,
+    "material": "Pilas y Baterías",
+    "query": "Baterías gastadas",
+    "contenedor": "Punto de recogida específico",
+    "explicacion": "Nunca a la basura normal. Contenedores de pilas en tiendas o mobiliario urbano."
+  },
+  {
+    "id": 72,
+    "material": "Aceites",
+    "query": "Aceite doméstico",
+    "contenedor": "Contenedor Naranja / Punto Limpio",
+    "explicacion": "El aceite atasca tuberías y contamina el agua. Reciclar en botella cerrada en puntos específicos."
+  },
+  {
+    "id": 73,
+    "material": "Medicamentos",
+    "query": "Medicinas caducadas",
+    "contenedor": "Punto SIGRE (Farmacia)",
+    "explicacion": "Medicamentos y sus envases (cajas/botes) van siempre a la farmacia."
+  },
+  {
+    "id": 74,
+    "material": "PVC",
+    "query": "Tuberías o plásticos de PVC",
+    "contenedor": "Punto Limpio",
+    "explicacion": "El PVC de construcción o tuberías no es envase ligero. Al Punto Limpio."
+  },
+  {
+    "id": 75,
+    "material": "Acero",
+    "query": "Latas de acero o hojalata",
+    "contenedor": "Amarillo",
+    "explicacion": "Las latas de conserva suelen ser de acero estañado. Son envases -> Amarillo."
+  },
+  {
+    "id": 76,
+    "material": "Cuero",
+    "query": "Cosas de piel o cuero",
+    "contenedor": "Gris (Resto) o Contenedor Textil",
+    "explicacion": "Si es ropa/calzado, contenedor textil. Si son recortes inservibles, al resto."
+  },
+  {
+    "id": 77,
+    "material": "Lana",
+    "query": "Restos de lana",
+    "contenedor": "Contenedor Textil",
+    "explicacion": "Fibra natural animal. Se gestiona junto con la ropa."
+  },
+  {
+    "id": 78,
+    "material": "Algodón",
+    "query": "Discos de algodón desmaquillante",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Al estar tratados y sucios, no suelen aceptarse en orgánico ni papel. Al resto."
+  },
+  {
+    "id": 79,
+    "material": "Bambú",
+    "query": "Cepillo o utensilio de bambú",
+    "contenedor": "Marrón (Si es 100% natural) o Resto",
+    "explicacion": "El bambú es madera. Si no tiene cerdas de plástico y es compostable, al marrón. Ante la duda, resto."
+  },
+  {
+    "id": 80,
+    "material": "Látex",
+    "query": "Globos o guantes de látex",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "El látex procesado no se recicla con los envases. Al contenedor de resto."
+  },
+  {
+    "id": 81,
+    "material": "Silicona",
+    "query": "Moldes de silicona viejos",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "La silicona no es plástico. No va al amarillo. Al resto o punto limpio."
+  },
+  {
+    "id": 82,
+    "material": "Piedra / Escombros",
+    "query": "Restos de obra o piedras",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Los escombros de pequeñas obras deben llevarse al Punto Limpio."
+  },
+  {
+    "id": 83,
+    "material": "Cera",
+    "query": "Restos de velas",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "La parafina o cera no es envase ni compostable fácilmente. Al resto."
+  },
+  {
+    "id": 84,
+    "material": "Corcho natural",
+    "query": "Corcho de alcornoque",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "El corcho auténtico es madera biodegradable. Al contenedor marrón."
+  },
+  {
+    "id": 85,
+    "material": "Cobre",
+    "query": "Cables de cobre pelados",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Es un metal valioso (chatarra). Llévalo al Punto Limpio, no al amarillo."
+  },
+  {
+    "id": 86,
+    "material": "Hierro",
+    "query": "Objetos oxidados de hierro",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Chatarra metálica. Punto Limpio."
+  },
+  {
+    "id": 87,
+    "material": "Ceniza",
+    "query": "Cenizas de chimenea o tabaco",
+    "contenedor": "Marrón (Orgánico) o Gris",
+    "explicacion": "Si están frías y son de madera pura, sirven de abono (marrón). Si son de tabaco, al gris."
+  },
+  {
+    "id": 88,
+    "material": "Serrín",
+    "query": "Serrín de madera",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Madera triturada natural, apta para compostaje."
+  },
+  {
+    "id": 89,
+    "material": "Huesos",
+    "query": "Huesos de comida",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Restos de comida van al contenedor orgánico."
+  },
+  {
+    "id":  90,
+    "material": "Conchas / Cáscaras",
+    "query": "Cáscaras de huevo o marisco",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Materia orgánica rica en calcio. Al contenedor marrón."
+  },
+  {
+    "id": 91,
+    "material": "Pelo",
+    "query": "Cabello humano o de mascota",
+    "contenedor": "Marrón (Orgánico)",
+    "explicacion": "Es materia orgánica biodegradable."
+  },
+  {
+    "id": 92,
+    "material": "Plástico PET",
+    "query": "Envases tipo PET",
+    "contenedor": "Amarillo",
+    "explicacion": "Es el plástico de las botellas de agua. Muy reciclable, siempre al amarillo."
+  },
+  {
+    "id": 93,
+    "material": "Plástico HDPE",
+    "query": "Polietileno de alta densidad",
+    "contenedor": "Amarillo",
+    "explicacion": "Plástico duro de botes de champú o detergente. Al amarillo."
+  },
+  {
+    "id": 94,
+    "material": "Plástico LDPE",
+    "query": "Polietileno de baja densidad (film)",
+    "contenedor": "Amarillo",
+    "explicacion": "Es el plástico flexible de bolsas y envoltorios. Al amarillo."
+  },
+  {
+    "id": 95,
+    "material": "Bioplástico",
+    "query": "Plásticos compostables",
+    "contenedor": "Marrón (Orgánico) - Verificar etiqueta",
+    "explicacion": "Si pone 'Compostable', va al marrón. Si solo pone 'Biobasado', suele ir al amarillo. Ante duda, amarillo."
+  },
+  {
+    "id": 96,
+    "material": "Espuma",
+    "query": "Gomaespuma de relleno",
+    "contenedor": "Punto Limpio o Gris (Resto)",
+    "explicacion": "Poliuretano. No es envase ligero. Al resto o Punto Limpio."
+  },
+  {
+    "id": 97,
+    "material": "Pintura",
+    "query": "Restos de pintura líquida",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Residuo químico peligroso. Nunca por el desagüe ni basura normal."
+  },
+  {
+    "id": 98,
+    "material": "Disolvente",
+    "query": "Aguarrás o acetona",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Producto químico inflamable y tóxico. Gestión especial en Punto Limpio."
+  },
+  {
+    "id": 99,
+    "material": "Fluorescente",
+    "query": "Tubos de luz",
+    "contenedor": "Punto Limpio / Comercio",
+    "explicacion": "Contienen vapor de mercurio. Muy frágiles y tóxicos. Puntos de recogida especiales."
+  },
+  {
+    "id": 100,
+    "material": "Neumático",
+    "query": "Rueda de bici o coche",
+    "contenedor": "Punto Limpio / Taller",
+    "explicacion": "Caucho reforzado. Requiere reciclaje específico (SIGNUS). No tirar en contenedores."
+  },
+  {
+    "id": 101,
+    "material": "Fibra de vidrio",
+    "query": "Material aislante o piezas de fibra",
+    "contenedor": "Punto Limpio",
+    "explicacion": "Material industrial compuesto. Al Punto Limpio."
+  },
+  {
+    "id": 102,
+    "material": "Porcelana",
+    "query": "Objetos de porcelana",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Similar a la cerámica. No es envase ni vidrio. Al resto."
+  },
+  {
+    "id": 103,
+    "material": "Papel vegetal",
+    "query": "Papel de horno sucio",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Suele tener silicona para no pegarse, lo que dificulta el reciclaje. Al resto."
+  },
+  {
+    "id": 104,
+    "material": "Hielo seco / Gel",
+    "query": "Bolsas de gel frío de envíos",
+    "contenedor": "Gris (Resto) - El plástico exterior al amarillo",
+    "explicacion": "El gel interior va al resto (o desagüe si es agua con sales no tóxicas, leer instrucciones), la bolsa vacía al amarillo."
+  },
+  {
+    "id": 105,
+    "material": "Basura mezclada",
+    "query": "Bolsa con un poco de todo",
+    "contenedor": "Gris (Resto)",
+    "explicacion": "Si no separas, va al contenedor de fracción resto, pero intentamos evitar esto."
+  }
+]
