@@ -5,11 +5,8 @@ from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTempla
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from config import DB_PATH, EMBEDDING_MODEL, MODEL_NAME
-
-# ... (imports anteriores)
 import sys
 
-# MUEVE ESTO FUERA DE LA FUNCIÓN (Ver Solución 2)
 vectorstore = Chroma(
     persist_directory=DB_PATH, 
     embedding_function=OllamaEmbeddings(model=EMBEDDING_MODEL)
@@ -33,6 +30,8 @@ REGLAS DE SALIDA:
 - Respuesta Directa: Entrega solo la solución. Si no es un material del contexto ni un residuo especial claro, di: "La información no aparece en los documentos".
 EJEMPLOS DE REFERENCIA:
 - Usuario: "Botella de vidrio llena" -> Respuesta: Contenedor: Verde. Acción: Vaciar contenido antes de reciclar.
+- Usuario: "Botella de plástico" -> Respuesta: Contenedor: Amarillo. Acción: Enjuagar antes de reciclar.
+- Usuario: "Caja de cartón" -> Respuesta: Contenedor: Azul. Acción: Vaciar contenido antes de reciclar.
 - Usuario: "Caja de pizza con mucha grasa" -> Respuesta: Contenedor: Gris (Restos). Acción: Tirar a restos por exceso de suciedad.
 - Usuario: "Pilas gastadas" -> Respuesta: Contenedor: Punto Limpio. Acción: Residuo Especial.
 """
@@ -40,7 +39,7 @@ EJEMPLOS DE REFERENCIA:
 human_instruction = """Contexto:
 {context}
 
-Pregunta: {question}
+Pregunta: En que contenedor el siguiente objeto: {question}
 Respuesta literal:"""
 
 prompt = ChatPromptTemplate.from_messages([
@@ -52,7 +51,6 @@ def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
 
-# Cadena optimizada
 rag_chain = (
     {"context": retriever | format_docs, "question": RunnablePassthrough()}
     | prompt
@@ -62,9 +60,7 @@ rag_chain = (
 
 
 def query_stream(question: str):
-    print(" -> Respuesta: ", end="\n", flush=True) # Preparamos la salida
-    
-    # USAMOS STREAM EN LUGAR DE INVOKE
+    print(" -> Respuesta: ", end="\n", flush=True) 
     for chunk in rag_chain.stream(question):
         print(chunk, end="", flush=True)
 

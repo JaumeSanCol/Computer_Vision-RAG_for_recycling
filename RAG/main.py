@@ -4,20 +4,28 @@ import argparse
 from query import query_stream
 import time
 
+def help():
+    print('''
+--- Ayuda del Sistema RAG ---
+Este sistema permite hacer preguntas sobre documentos PDF previamente procesados y almacenados en una base de datos vectorial.
+Instrucciones:
+    1. Asegúrate de tener la base de datos vectorial generada. Si no la tienes, ejecuta preload_database.py.
+    2. Ejecuta este script principal: python main.py
+    3. Escribe tus preguntas cuando se te solicite.
+    4. Para salir del sistema, escribe "exit".
+''')
 def main():
-    # Permitir pasar la pregunta como argumento, o pedirla si no se da
-    parser = argparse.ArgumentParser(description="Pregunta a tu RAG local")
-    parser.add_argument("query", type=str, nargs="?", help="La pregunta que quieres hacer")
-    args = parser.parse_args()
-    # Si no hay argumento, pedimos input interactivo
-    question = args.query
+    question = ""
     while question != "exit":
         if not question:
-            print("\n--- Sistema RAG Local ---")
+            print("\n--- Sistema RAG ---")
         question = input("Escribe tu pregunta: ")
         if question == "exit":
             print("Saliendo...")
             break
+        if question == "help":
+            help()
+            continue
         start=time.time()   
         query_stream(question)
         end=time.time()
