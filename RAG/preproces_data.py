@@ -15,8 +15,7 @@ def analizar_fuentes(pdf_path, pagina_num):
                     # Imprimimos el tamaño y el texto para identificar patrones
                     print(f"Tamaño: {span['size']:.2f} | Texto: {span['text'][:50]}")
 
-# Prueba con tu archivo (ajusta la ruta)
-analizar_fuentes("RAG/docs/guia.pdf", 7) #->> tamaño de titulo que nos intersa es 21.96
+
 
 
 def extraer_por_titulos(pdf_path, tamano_titulo=21.96):
@@ -48,3 +47,7 @@ def extraer_por_titulos(pdf_path, tamano_titulo=21.96):
     if contenido_actual:
         fragmentos.append(Document(page_content=contenido_actual, metadata=metadata_actual))
     return fragmentos
+
+if __name__ == "__main__":
+    # Prueba la guia
+    analizar_fuentes("RAG/docs/guia.pdf", 7) #->> tamaño de titulo que nos intersa es 21.96

@@ -6,7 +6,7 @@ import time
 from url import URLS
 
 # --- CONFIGURACIÓN ---
-OUTPUT_DIR = "RAG/docs"  # Carpeta donde se guardarán los .txt
+OUTPUT_DIR = "RAG/docs"
 
 
 def clean_filename(title):
@@ -18,11 +18,10 @@ def clean_text(text):
     Limpia el texto para que sea digerible por el LLM.
     Elimina espacios extra, saltos de línea múltiples, etc.
     """
-    # 1. Separamos el texto por líneas originales
+    # Separamos el texto por líneas originales
     lines = text.split(". ")
     
-    # 2. Limpiamos cada línea individualmente (quitamos espacios al inicio/final)
-    # y filtramos las líneas vacías.
+    # Limpiamos cada línea individualmente (quitamos espacios al inicio/final) y filtramos las líneas vacías.
     cleaned_lines = []
     for line in lines:
         
@@ -34,7 +33,7 @@ def clean_text(text):
         if text:
             cleaned_lines.append(text)
             
-    # 3. Unimos las líneas con un salto de línea para que sea un texto vertical
+    # Unimos las líneas con un salto de línea para que sea un texto vertical
     # Usamos '\n' para separar frases o '\n\n' si prefieres párrafos muy marcados.
     return "\n".join(cleaned_lines)
     return text.strip()
@@ -54,29 +53,29 @@ def scrape_url(url):
         # Parsear HTML
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # 1. ELIMINAR RUIDO (Scripts, Estilos, Menús, Pies de página)
+        # ELIMINAR RUIDO (Scripts, Estilos, Menús, Pies de página)
         # Esto es CRÍTICO para que el LLM no lea código basura.
         for tag in soup(["script", "style", "nav", "footer", "header", "aside", "form", "iframe"]):
             tag.decompose() # Elimina la etiqueta del árbol
 
-        # 2. Extraer Título para el nombre del archivo
+        # Extraer Título para el nombre del archivo
         page_title = soup.title.string if soup.title else "documento_sin_titulo"
         filename = clean_filename(page_title) + ".txt"
 
-        # 3. Extraer Texto Principal (Priorizamos párrafos y encabezados)
+        # Extraer Texto Principal (Priorizamos párrafos y encabezados)
         # Buscamos el contenedor principal si es posible (común en blogs/artículos)
         content_div = soup.find('main') or soup.find('article') or soup.body
         
         # Obtener texto separando bloques por saltos de línea
         raw_text = content_div.get_text(separator='\n\n')
 
-        # 4. Limpieza final
+        # Limpieza final
         final_text = clean_text(raw_text)
 
         # Añadimos la URL al principio del texto para referencia del RAG
         final_content = f"FUENTE: {url}\nTITULO: {page_title}\n\n{final_text}"
 
-        # 5. Guardar archivo
+        # Guardar archivo
         file_path = os.path.join(OUTPUT_DIR, filename)
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(final_content)

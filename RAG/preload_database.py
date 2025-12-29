@@ -3,7 +3,6 @@ from langchain_chroma import Chroma
 from langchain_ollama import OllamaEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from preproces_data import extraer_por_titulos
-# Configuración
 from config import DB_PATH, EMBEDDING_MODEL, URL_TARGET, DATA_PATH
 
 def preparar_base_datos():
@@ -13,19 +12,19 @@ def preparar_base_datos():
     # Extracción por títulos
     secciones_grandes = extraer_por_titulos(pdf_path)
     
-    # Configuramos un splitter de refuerzo (ej. 1000 caracteres)
-    # El overlap de 100 ayuda a que no se corten frases importantes
+    # Configuramos un splitter de refuerzo
+    # El overlap de 100 hace que no se corten frases importantes
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=1000, 
         chunk_overlap=100
     )
     
-    # 3. Dividimos las secciones que se pasen de la raya
+    # Dividimos las secciones que se pasen de la raya
     docs_finales = text_splitter.split_documents(secciones_grandes)
 
     print(f"--- [PROCESAMIENTO] De {len(secciones_grandes)} secciones han salido {len(docs_finales)} fragmentos.")
 
-    # 4. Ahora sí, a la base de datos
+    # Enviamos a la base de datos
     vectorstore = Chroma.from_documents(
         documents=docs_finales,
         embedding=OllamaEmbeddings(model=EMBEDDING_MODEL),
