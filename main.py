@@ -4,20 +4,19 @@ import onnxruntime as ort #type: ignore
 import numpy as np #type: ignore
 from PIL import Image
 
-# 1. SOLUCIÓN AL ERROR DE IMPORTACIÓN
-# Añadimos la carpeta RAG al sistema para que 'query.py' pueda encontrar a 'config.py'
+
+# Añadimos la carpeta RAG al sistema para usar query.py
 directorio_actual = os.getcwd()
 sys.path.append(os.path.join(directorio_actual, 'RAG'))
 
-# Ahora importamos la cadena RAG del archivo RAG/query.py
+# Importamos la cadena RAG del archivo RAG/query.py
 try:
     from query import rag_chain
 except ImportError as e:
     print(f"Error al importar el RAG: {e}")
     sys.exit(1)
 
-# 2. CONFIGURACIÓN DEL MODELO DE MATLAB (.ONNX)
-# Usamos os.path.join para que funcione correctamente en Windows
+# Importamos el modelo ONNX exportado desde MATLAB
 model_path = os.path.join("CV", "cv_reciclaria.onnx")
 
 if not os.path.exists(model_path):
@@ -26,7 +25,7 @@ if not os.path.exists(model_path):
 
 session = ort.InferenceSession(model_path)
 
-# Tus clases actualizadas (Asegúrate que coincidan con el entrenamiento en MATLAB)
+ # Definimos las clases según el modelo entrenado en MATLAB
 clases = {
     0: "Carton",
     1: "Organico", 
@@ -45,8 +44,8 @@ def preprocesar_imagen(ruta_img):
     img = Image.open(ruta_img).convert('RGB')
     img = img.resize((224, 224)) 
     
-    # Normalizar (dividir por 255) y convertir a float32
-    img_data = np.array(img).astype(np.float32) / 255.0
+    # Normalizar y convertir a float32
+    img_data = np.array(img).astype(np.float32)
     
     # Cambiar formato de [H, W, C] a [C, H, W] que es lo que suele exportar MATLAB
     img_data = np.transpose(img_data, (2, 0, 1)) 
@@ -57,7 +56,7 @@ def clasificar_y_consultar(ruta_img):
         print(f"Error: La imagen '{ruta_img}' no existe.")
         return
 
-    # A. Inferencia de Visión por Computador (Tu modelo de MATLAB)
+    # A. Inferencia de Visión por Computador
     print(f"\n[CV] Analizando imagen: {ruta_img}...")
     input_data = preprocesar_imagen(ruta_img)
     inputs = {session.get_inputs()[0].name: input_data}
@@ -73,7 +72,6 @@ def clasificar_y_consultar(ruta_img):
     
     print("\n[RAG] Respuesta del Asistente Experto:")
     # Usamos la 'rag_chain' definida en query.py
-    # Recuerda tener Ollama ejecutándose en segundo plano
     for chunk in rag_chain.stream(pregunta_automatica):
         print(chunk, end="", flush=True)
     print("\n" + "-"*30)
