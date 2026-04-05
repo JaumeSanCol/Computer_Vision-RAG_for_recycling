@@ -1,7 +1,5 @@
 # Sistema RAG
 
-> Una breve descripción de una o dos frases sobre qué hace tu sistema RAG (ej. "Sistema de Recuperación Aumentada para consultar documentos legales usando LangChain y OpenAI").
-
 ##  Tabla de Contenidos
 1. [Descripción](#descripción)
 2. [Requisitos Previos](#requisitos-previos)
